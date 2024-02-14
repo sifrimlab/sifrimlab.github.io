@@ -1,21 +1,20 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
-
+Modern life science research is a highly multidisciplinary endeavor often requiring the joint analysis of highly heterogeneous data sources, such as large-scale single-cell multi-omics datasets, structured ontology-driven annotations, unstructured published literature and imaging data. Using a holistic approach, one can often detect patterns which provide deeper insights into the biological and/or pathophysiological processes under study. However, such data analysis approaches are complex when dealing with heterogeneous and highly dimensional datasets. By leveraging breakthrough advances in the fields of artificial intelligence and statistical modelling, our group aims to develop novel computational methodologies for data fusion and pattern recognition and apply them to further our understanding of human disease. 
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  link="research"
+  text="See our publications"
+  flip=true
 %}
 {%
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="sifrimlab"
 %}
 
 {% include section.html %}
@@ -24,7 +23,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use machine learning to answer important questions in large-scale multi-omics biology and medicine. In all of our research, we prioritize transparency, rigor, and reproducibility.
 
 {%
   include button.html
@@ -47,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We work on cutting-edge projects focusing on multi-omics integration and subcellular localization.
 
 {%
   include button.html
@@ -72,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of enthusiastic researchers from all walks of life that want to push the frontier of bioinformatics. We strive to build an inclusive and collaborative environment for research.
 
 {%
   include button.html

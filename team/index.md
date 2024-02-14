@@ -7,29 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a team of enthusiastic researchers from all walks of life that want to push the frontier of bioinformatics. We strive to build an inclusive and collaborative environment for research.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+## Postdoctoral Researchers
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+## PhD Students
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+## Master Students
+{% include list.html data="members" component="portrait" filters="role: programmer" %}
+{% include list.html data="members" component="portrait" filters="role: grad" %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Alumni
+Remembered with enduring gratitude, these former lab members have pursued other academic endeavors, embraced new professional roles, or embarked on different paths. Their contributions resonate in the realm of science and linger in our hearts.
 
 {% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
