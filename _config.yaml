@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Alejandro Sifrim's lab
+title: sifrimlab
 subtitle: 
-description: THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)
+description: An engaging 1-3 sentence description of your lab.
 header: images/landing.jpg
 footer: images/landing.jpg
 
