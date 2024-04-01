@@ -4215,8 +4215,8 @@
 - id: doi:10.1186/1756-0500-4-384
   title: 'Medusa: A tool for exploring and clustering biological networks'
   authors:
-  - Georgios A Pavlopoulos
-  - Sean D Hooper
+  - Georgios A. Pavlopoulos
+  - Sean D. Hooper
   - Alejandro Sifrim
   - Reinhard Schneider
   - Jan Aerts
