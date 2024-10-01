@@ -2,7 +2,7 @@
 name: Nynke Tilkema
 image: images/team/nynke-tilkema.jpg
 description: Master Thesis Student
-role: grad
+role: alumni
 links:
   linkedin: nynke-tilkema
   github: nynkekatinka

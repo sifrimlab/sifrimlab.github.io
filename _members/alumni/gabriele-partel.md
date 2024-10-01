@@ -2,7 +2,7 @@
 name: Gabriele Partel
 image: images/team/gabriele-partel.jpg
 description: Postdoctoral Researcher
-role: postdoc
+role: alumni
 links:
     twitter: gapartel
     linkedin: gapartel

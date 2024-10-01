@@ -12,12 +12,13 @@ We are a team of enthusiastic researchers from all walks of life that want to pu
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-## Postdoctoral Researchers
+## Postdoctoral Researchers & Staff
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: staff" %}
 ## PhD Students
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-## Master Students
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
+## Master Students
 {% include list.html data="members" component="portrait" filters="role: grad" %}
 
 
