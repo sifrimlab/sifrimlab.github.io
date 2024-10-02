@@ -1,6 +1,6 @@
 ---
 name: Marios Eftychiou
-image: images/team/marios-eftychiou.jpg
+image: images/team/Marios-eftychiou.jpg
 description: PhD Student
 role: phd
 ---
