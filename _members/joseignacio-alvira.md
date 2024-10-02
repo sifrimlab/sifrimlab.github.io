@@ -1,11 +1,10 @@
 ---
 name: Jose Ignacio Alvira Larizgoitia
-image: images/team/nacho.png
+image: images/team/nacho.jpg
 description: PhD Student
 role: phd
 links:
     linkedin: jose-ignacio-alvira-larizgoitia-058061216
-    twitter: euskadifumar
     github: josenachorr
     orcid: 0000-0001-7158-4128
 
