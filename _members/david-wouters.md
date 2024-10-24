@@ -1,6 +1,6 @@
 ---
 name: David Wouters
-image: images/team/david-wouters.jpeg
+image: images/team/david-wouters.jpg
 description: PhD Student
 role: phd
 links:
