@@ -1,6 +1,6 @@
 ---
 name: Anis Ismail
-image: images/team/anis-ismail.jpeg
+image: images/team/anis-ismail.JPG
 description: PhD Student
 role: programmer
 links:
