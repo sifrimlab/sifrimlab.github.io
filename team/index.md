@@ -7,6 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+{%
+  include figure.html
+  image="images/team.jpeg"
+  link="team"
+  width="75%"
+%}
+
 We are a team of enthusiastic researchers from all walks of life that want to push the frontier of bioinformatics. We strive to build an inclusive and collaborative environment for research.
 
 {% include section.html %}

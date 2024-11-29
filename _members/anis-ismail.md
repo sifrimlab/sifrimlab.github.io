@@ -1,7 +1,7 @@
 ---
 name: Anis Ismail
 image: images/team/anis-ismail.JPG
-description: PhD Student
+description: PhD Student & Website Admin
 role: programmer
 links:
   home-page: https://anisdismail.com
