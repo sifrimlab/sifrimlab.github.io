@@ -86,7 +86,7 @@ We are a team of enthusiastic researchers from all walks of life that want to pu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
   title="Our Team"
   text=text
