@@ -1,6 +1,6 @@
 ---
 name: Tom Schildermans
-image: images/team/tom-schildermans.jpeg
+image: images/team/tom-schildermans.JPG
 description: Master Thesis Student
 role: grad
 links:
