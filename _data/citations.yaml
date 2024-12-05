@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.11.29.626054
+  title: Single cell transcriptomics reveal mast cell heterogeneity in the human gut
+  authors:
+  - Hind Hussein
+  - Elodie Modave
+  - Nathalie Stakenborg
+  - Marcello Delfini
+  - Katy Vandereyken
+  - Alejandro Sifrim
+  - Thierry Voet
+  - Guy E Boeckxstaens
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-12-03'
+  link: https://doi.org/g8trwm
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.12.23.23300495
   title: Assessing the contribution of rare variants to congenital heart disease through
     a large-scale case-control exome study
