@@ -11,11 +11,11 @@ From code to court, the LMIBeaches proved that the LMIB can bring the heat. With
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <div style="flex: 1 1 45%; max-width: 60%;">
+  <div style="flex: 1 1 60%; max-width: 60%;">
     {% include figure.html image="images/news/LMIBeaches-2025.jpg" width="100%" %}
   </div>
 
-  <div style="flex: 1 1 45%; max-width: 30%;">
+  <div style="flex: 1 1 30%; max-width: 30%;">
     {% include figure.html image="images/news/LMIBeaches-2025-2.JPG" width="100%" %}
   </div>
 
