@@ -1,5 +1,47 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41586-025-09228-z
+  title: Nutrients activate distinct patterns of small-intestinal enteric neurons
+  authors:
+  - Candice Fung
+  - Tom Venneman
+  - Amy M. Holland
+  - Tobie Martens
+  - Milvia I. Alata
+  - Marlene M. Hao
+  - Ceyhun Alar
+  - Yuuki Obata
+  - Jan Tack
+  - Alejandro Sifrim
+  - Vassilis Pachnis
+  - Werend Boesmans
+  - Pieter Vanden Berghe
+  publisher: Nature
+  date: '2025-07-09'
+  link: https://doi.org/g9s287
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43018-025-00994-3
+  title: "Innate immunity and the NF-\u03BAB pathway control prostate stem cell plasticity,\
+    \ reprogramming and tumor initiation"
+  authors:
+  - Chen Jiang
+  - Yura Song
+  - Sandrine Rorive
+  - Justine Allard
+  - Elisavet Tika
+  - Zahra Zahedi
+  - Christine Dubois
+  - Isabelle Salmon
+  - Alejandro Sifrim
+  - "C\xE9dric Blanpain"
+  publisher: Nature Cancer
+  date: '2025-06-23'
+  link: https://doi.org/g9sfw5
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.11.29.626054
   title: Single cell transcriptomics reveal mast cell heterogeneity in the human gut
   authors:
