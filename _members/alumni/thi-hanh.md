@@ -2,7 +2,7 @@
 name: Thi Hanh Nguyen Ly
 image: images/team/thi-hanh.jpeg
 description: Master Thesis Student
-role: grad
+role: alumni
 links:
     linkedin: hannah-ly-vietnam
     github: HannahLy1204

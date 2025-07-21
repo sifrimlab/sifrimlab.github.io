@@ -2,7 +2,7 @@
 name: William Mwine
 image: images/team/william-mwine.jpeg
 description: Master Thesis Student
-role: grad
+role: alumni
 links:
     linkedin: williammwine
     github: willsketch
