@@ -19,7 +19,7 @@ From code to court, the LMIBeaches proved that the LMIB can bring the heat. With
     {% include figure.html image="images/news/LMIBeaches-2025-2.JPG" width="100%" %}
   </div>
 
-  <div style="flex: 1 1 90%; max-width: 90%; margin-top: 10px;">
+  <div style="flex: 1 1 90%; max-width: 90%; margin-top: 5px;">
     {% include figure.html image="images/news/LMIBeaches-2025-3.jpg" width="100%" %}
   </div>
 
