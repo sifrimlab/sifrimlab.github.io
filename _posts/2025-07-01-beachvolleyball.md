@@ -3,6 +3,7 @@ title: LMIBeaches Win Third Place in VIB Beach Volley Tournament!
 tags:
   - awards
   - team
+last_modified_at: ""
 ---
 
 <!-- excerpt start -->
