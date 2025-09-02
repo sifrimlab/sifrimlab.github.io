@@ -1,5 +1,5 @@
 ---
-title: LMIB Organize a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School
+title: LMIB Organizes a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School
 tags:
   - hackathon
 last_modified_at: ""
