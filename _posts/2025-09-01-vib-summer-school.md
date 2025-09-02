@@ -1,5 +1,5 @@
 ---
-title: New Paper on Nutrient Sensing in the Enteric Nervous System
+title: LMIB Organize a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School
 tags:
   - hackathon
 last_modified_at: ""
