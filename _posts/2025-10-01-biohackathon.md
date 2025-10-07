@@ -26,7 +26,7 @@ You can learn more about RSG Belgium [here](https://rsg-belgium.org/).
 
 .image-grid .img-1,
 .image-grid .img-2 {
-  height: 500px; /* adjust as needed */
+  height: 400px; /* adjust as needed */
   overflow: hidden;
 }
 
