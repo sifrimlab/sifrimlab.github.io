@@ -1,5 +1,5 @@
 ---
-title: LMIB Leads the Organization of the Interuversity Biohackathon Belgium in collaboration with RSG Belgium
+title: LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium
 tags:
   - hackathon
 last_modified_at: ""
@@ -18,11 +18,11 @@ You can learn more about RSG Belgium [here](https://rsg-belgium.org/).
 
 <div class="image-grid">
   <div class="img-1">
-    {% include figure.html image="images/news/biohackathon-1.jpg" width="100%" style="height: 100%; object-fit: cover;" %}
+    {% include figure.html image="images/news/biohackathon-1.jpg" width="40%" style="height: 100%; object-fit: cover;" %}
   </div>
 
   <div class="img-2">
-    {% include figure.html image="images/news/biohackathon-2.jpg" width="100%" style="height: 100%; object-fit: cover;" %}
+    {% include figure.html image="images/news/biohackathon-2.jpg" width="60%" style="height: 100%; object-fit: cover;" %}
   </div>
 
   <div class="img-3">
