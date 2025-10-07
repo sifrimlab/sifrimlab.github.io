@@ -2,7 +2,7 @@
 name: Tom Schildermans
 image: images/team/tom-schildermans.JPG
 description: Master Thesis Student
-role: grad
+role: alumni
 links:
     linkedin: tomschildermans
 ---

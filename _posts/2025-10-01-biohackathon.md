@@ -16,16 +16,36 @@ We warmly congratulate all winning teams and thank the organizing committee: Ani
 
 You can learn more about RSG Belgium [here](https://rsg-belgium.org/).
 
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 0; /* adjust if you want spacing */
+  width: 100%;
+}
+
+.image-grid .img-1,
+.image-grid .img-2 {
+  height: 300px; /* adjust as needed */
+  overflow: hidden;
+}
+
+.image-grid .img-3 {
+  grid-column: 1 / span 2; /* make it full width below */
+  margin-top: 10px;
+}
+</style>
+
 <div class="image-grid">
   <div class="img-1">
-    {% include figure.html image="images/news/biohackathon-1.jpg" width="40%" style="height: 100%; object-fit: cover;" %}
+    {% include figure.html image="images/news/biohackathon-1.jpg" width="100%" style="height: 100%; object-fit: cover;" %}
   </div>
 
   <div class="img-2">
-    {% include figure.html image="images/news/biohackathon-2.jpg" width="60%" style="height: 100%; object-fit: cover;" %}
+    {% include figure.html image="images/news/biohackathon-2.jpg" width="100%" style="height: 100%; object-fit: cover;" %}
   </div>
 
   <div class="img-3">
-    <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025">
+    <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025" style="width: 100%; object-fit: cover;">
   </div>
 </div>
