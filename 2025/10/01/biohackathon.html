@@ -447,12 +447,32 @@
 
 <p>You can learn more about RSG Belgium <a href="https://rsg-belgium.org/">here</a>.</p>
 
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 0; /* adjust if you want spacing */
+  width: 100%;
+}
+
+.image-grid .img-1,
+.image-grid .img-2 {
+  height: 300px; /* adjust as needed */
+  overflow: hidden;
+}
+
+.image-grid .img-3 {
+  grid-column: 1 / span 2; /* make it full width below */
+  margin-top: 10px;
+}
+</style>
+
 <div class="image-grid">
   <div class="img-1">
     <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/biohackathon-1.jpg" style="
-        width: 40%;
+        width: 100%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
@@ -465,7 +485,7 @@
     <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/biohackathon-2.jpg" style="
-        width: 60%;
+        width: 100%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
@@ -475,7 +495,7 @@
   </div>
 
   <div class="img-3">
-    <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025">
+    <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025" style="width: 100%; object-fit: cover;">
   </div>
 </div>
   </section>

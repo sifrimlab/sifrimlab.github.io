@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-07T15:27:12+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-07T15:29:56+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 
 <p>On September 24 and 25, our colleagues Anis and Saptarshi led the organization of the first Interuniversity Biohackathon Belgium, marking the return of the Regional Student Group (RSG) Belgium of the International Society for Computational Biology (ISCB) after a five-year hiatus.</p>
@@ -9,12 +9,32 @@
 
 <p>You can learn more about RSG Belgium <a href="https://rsg-belgium.org/">here</a>.</p>
 
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 0; /* adjust if you want spacing */
+  width: 100%;
+}
+
+.image-grid .img-1,
+.image-grid .img-2 {
+  height: 300px; /* adjust as needed */
+  overflow: hidden;
+}
+
+.image-grid .img-3 {
+  grid-column: 1 / span 2; /* make it full width below */
+  margin-top: 10px;
+}
+</style>
+
 <div class="image-grid">
   <div class="img-1">
     <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/biohackathon-1.jpg" style="
-        width: 40%;
+        width: 100%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -27,7 +47,7 @@
     <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/biohackathon-2.jpg" style="
-        width: 60%;
+        width: 100%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -37,7 +57,7 @@
   </div>
 
   <div class="img-3">
-    <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025" />
+    <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025" style="width: 100%; object-fit: cover;" />
   </div>
 </div>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LMIB Organizes a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School</title><link href="/2025/09/01/vib-summer-school.html" rel="alternate" type="text/html" title="LMIB Organizes a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School" /><published>2025-09-01T00:00:00+00:00</published><updated>2025-09-01T00:00:00+00:00</updated><id>/2025/09/01/vib-summer-school</id><content type="html" xml:base="/2025/09/01/vib-summer-school.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
