@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-07T15:25:37+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB Leads the Organization of the Interuversity Biohackathon Belgium in collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuversity Biohackathon Belgium in collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-07T15:27:12+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 
 <p>On September 24 and 25, our colleagues Anis and Saptarshi led the organization of the first Interuniversity Biohackathon Belgium, marking the return of the Regional Student Group (RSG) Belgium of the International Society for Computational Biology (ISCB) after a five-year hiatus.</p>
@@ -14,7 +14,7 @@
     <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/biohackathon-1.jpg" style="
-        width: 100%;
+        width: 40%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -27,7 +27,7 @@
     <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/biohackathon-2.jpg" style="
-        width: 100%;
+        width: 60%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
