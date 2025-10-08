@@ -1,70 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-08T09:27:32+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html"></title><link href="/2025/10/08/2025-10-01-scso.html" rel="alternate" type="text/html" title="" /><published>2025-10-08T09:27:32+00:00</published><updated>2025-10-08T09:26:54+00:00</updated><id>/2025/10/08/2025-10-01-scso</id><content type="html" xml:base="/2025/10/08/2025-10-01-scso.html"><![CDATA[<!-- excerpt start -->
-<!-- excerpt end -->
-
-<p>We’re pleased to share that our lab contributed to the <a href="https://scsomics2025.com/">SCSO 2025 conference</a> in Leuven, where our colleagues Ceyhun, David, Maria and Jelle presented our findings through their respective posters on:</p>
-
-<ul>
-  <li>Data-driven experimental design and analysis for targeted spatial transcriptomics</li>
-  <li>Automated characterisation of subcellular mRNA localization patterns using spatial transcriptomics and deep neural networks</li>
-  <li>Integrative transcriptomics reveals dynamic shifts in oligodendrocyte and OPC activation states in ALS</li>
-  <li>LipoGrid: A multi-omics platform for the systematic dissection of lipid metabolism via genetic perturbations</li>
-</ul>
-
-<p>Additionally, Nacho gave a talk titled “An AI-based approach to better understand the interplay between different spatial omics layers.”</p>
-
-<p>Many thanks to all collaborators and LISCO - KU Leuven Institute for Single Cell Omics!</p>
-
-<style>
-.image-grid {
-  display: grid;
-  grid-template-columns: 50% 50%;
-  gap: 0; /* adjust if you want spacing */
-  width: 100%;
-}
-
-.image-grid .img-1,
-.image-grid .img-2 {
-  height: 300px; /* adjust as needed */
-  overflow: hidden;
-}
-
-.image-grid .img-3 {
-  grid-column: 1 / span 2; /* make it full width below */
-  margin-top: 10px;
-}
-</style>
-
-<div class="image-grid">
-  <div class="img-1">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/SCSO-1.jpg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-
-  <div class="img-2">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/SCSO-2.jpg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-
-  <div class="img-3">
-    <img src="/images/news/SCSO-3.jpg" alt="scso2025" style="width: 100%; object-fit: cover;" />
-  </div>
-</div>]]></content><author><name></name></author></entry><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-08T09:29:47+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 
 <p>On September 24 and 25, our colleagues Anis and Saptarshi led the organization of the first Interuniversity Biohackathon Belgium, marking the return of the Regional Student Group (RSG) Belgium of the International Society for Computational Biology (ISCB) after a five-year hiatus.</p>
@@ -131,7 +65,73 @@
 
 <p>This fellowship will support his doctoral research in our lab, where he will focus on leveraging multi-omic long-read sequencing data and deep learning to unravel the genetic dysregulation underlying complex sarcomas.</p>
 
-<p>A huge congratulations to Marios for this outstanding achievement, we’re proud and excited to see his research take off!</p>]]></content><author><name></name></author><category term="awards" /><category term="LISCO" /><summary type="html"><![CDATA[We are thrilled to share that our colleague Marios has been awarded a PhD fellowship from the Research Foundation Flanders (FWO)!]]></summary></entry><entry><title type="html">Welcome to the team Joran and Mora!</title><link href="/2025/10/01/welcome-fall2025.html" rel="alternate" type="text/html" title="Welcome to the team Joran and Mora!" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/welcome-fall2025</id><content type="html" xml:base="/2025/10/01/welcome-fall2025.html"><![CDATA[<!-- excerpt start -->
+<p>A huge congratulations to Marios for this outstanding achievement, we’re proud and excited to see his research take off!</p>]]></content><author><name></name></author><category term="awards" /><category term="LISCO" /><summary type="html"><![CDATA[We are thrilled to share that our colleague Marios has been awarded a PhD fellowship from the Research Foundation Flanders (FWO)!]]></summary></entry><entry><title type="html">LMIB at SCSO 2025 - Showcasing Innovation in Spatial and Multi-Omics Research</title><link href="/2025/10/01/scso.html" rel="alternate" type="text/html" title="LMIB at SCSO 2025 - Showcasing Innovation in Spatial and Multi-Omics Research" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/scso</id><content type="html" xml:base="/2025/10/01/scso.html"><![CDATA[<!-- excerpt start -->
+<!-- excerpt end -->
+
+<p>We’re pleased to share that our lab contributed to the <a href="https://scsomics2025.com/">SCSO 2025 conference</a> in Leuven, where our colleagues Ceyhun, David, Maria and Jelle presented our findings through their respective posters on:</p>
+
+<ul>
+  <li>Data-driven experimental design and analysis for targeted spatial transcriptomics</li>
+  <li>Automated characterisation of subcellular mRNA localization patterns using spatial transcriptomics and deep neural networks</li>
+  <li>Integrative transcriptomics reveals dynamic shifts in oligodendrocyte and OPC activation states in ALS</li>
+  <li>LipoGrid: A multi-omics platform for the systematic dissection of lipid metabolism via genetic perturbations</li>
+</ul>
+
+<p>Additionally, Nacho gave a talk titled “An AI-based approach to better understand the interplay between different spatial omics layers.”</p>
+
+<p>Many thanks to all collaborators and LISCO - KU Leuven Institute for Single Cell Omics!</p>
+
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 0; /* adjust if you want spacing */
+  width: 100%;
+}
+
+.image-grid .img-1,
+.image-grid .img-2 {
+  height: 300px; /* adjust as needed */
+  overflow: hidden;
+}
+
+.image-grid .img-3 {
+  grid-column: 1 / span 2; /* make it full width below */
+  margin-top: 10px;
+}
+</style>
+
+<div class="image-grid">
+  <div class="img-1">
+    <figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/news/SCSO-1.jpg" style="
+        width: 100%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>
+
+  </div>
+
+  <div class="img-2">
+    <figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/news/SCSO-2.jpg" style="
+        width: 100%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>
+
+  </div>
+
+  <div class="img-3">
+    <img src="/images/news/SCSO-3.jpg" alt="scso2025" style="width: 100%; object-fit: cover;" />
+  </div>
+</div>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Welcome to the team Joran and Mora!</title><link href="/2025/10/01/welcome-fall2025.html" rel="alternate" type="text/html" title="Welcome to the team Joran and Mora!" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/welcome-fall2025</id><content type="html" xml:base="/2025/10/01/welcome-fall2025.html"><![CDATA[<!-- excerpt start -->
 <p>Welcoming our Newest Post doctoral Researcher Joran, and Master Thesis Student Mora!
 <!-- excerpt end --></p>]]></content><author><name></name></author><category term="team" /><summary type="html"><![CDATA[Welcoming our Newest Post doctoral Researcher Joran, and Master Thesis Student Mora!]]></summary></entry><entry><title type="html">LMIB Organizes a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School</title><link href="/2025/09/01/vib-summer-school.html" rel="alternate" type="text/html" title="LMIB Organizes a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School" /><published>2025-09-01T00:00:00+00:00</published><updated>2025-09-01T00:00:00+00:00</updated><id>/2025/09/01/vib-summer-school</id><content type="html" xml:base="/2025/09/01/vib-summer-school.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
