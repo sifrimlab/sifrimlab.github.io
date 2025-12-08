@@ -1,26 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-12-08T15:52:48+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB at RSE 2025 - Showcasing Innovation in Spatial and Multi-Omics Research</title><link href="/2025/12/01/rse-day.html" rel="alternate" type="text/html" title="LMIB at RSE 2025 - Showcasing Innovation in Spatial and Multi-Omics Research" /><published>2025-12-01T00:00:00+00:00</published><updated>2025-12-01T00:00:00+00:00</updated><id>/2025/12/01/rse-day</id><content type="html" xml:base="/2025/12/01/rse-day.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-12-08T16:47:20+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB at RSE 2025 - Automating FAIR Data Management in Academic Research Software Engineering</title><link href="/2025/12/01/rse-day.html" rel="alternate" type="text/html" title="LMIB at RSE 2025 - Automating FAIR Data Management in Academic Research Software Engineering" /><published>2025-12-01T00:00:00+00:00</published><updated>2025-12-01T00:00:00+00:00</updated><id>/2025/12/01/rse-day</id><content type="html" xml:base="/2025/12/01/rse-day.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 <p>Research Software Engineering (RSE) is a relatively new field that spans several disciplines while sitting at the intersection of software engineering and research. The needs of software engineering in academic research differ significantly from those of its traditional commercial counterpart. <br />
 We presented our attempt at adding to the rich contributions of the Belgian Research Software Engineering Community (BE-RSE) at the RSE Day organised by KU Leuven on 4 December 2025, with a demonstration of the Automated FAIR Data Management tool developed by our Data Engineer Saptarshi at LMIB/LISCO. This tool aims to automate the management of data throughout its lifecycle, from ingestion to archival, while remaining compliant with FAIR principles.</p>
-<figure class="figure">
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="flex: 1;">
+    <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/rse-day1.jpg" style="
-        width: 75%;
+        width: 100%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
 
-<figure class="figure">
+  </div>
+  <div style="flex: 1;">
+    <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/news/rse-day2.png" style="
-        width: 75%;
+        width: 100%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[Research Software Engineering (RSE) is a relatively new field that spans several disciplines while sitting at the intersection of software engineering and research. The needs of software engineering in academic research differ significantly from those of its traditional commercial counterpart. We presented our attempt at adding to the rich contributions of the Belgian Research Software Engineering Community (BE-RSE) at the RSE Day organised by KU Leuven on 4 December 2025, with a demonstration of the Automated FAIR Data Management tool developed by our Data Engineer Saptarshi at LMIB/LISCO. This tool aims to automate the management of data throughout its lifecycle, from ingestion to archival, while remaining compliant with FAIR principles.]]></summary></entry><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
+</figure>
+
+  </div>
+</div>]]></content><author><name></name></author><category term="conference" /><summary type="html"><![CDATA[Research Software Engineering (RSE) is a relatively new field that spans several disciplines while sitting at the intersection of software engineering and research. The needs of software engineering in academic research differ significantly from those of its traditional commercial counterpart. We presented our attempt at adding to the rich contributions of the Belgian Research Software Engineering Community (BE-RSE) at the RSE Day organised by KU Leuven on 4 December 2025, with a demonstration of the Automated FAIR Data Management tool developed by our Data Engineer Saptarshi at LMIB/LISCO. This tool aims to automate the management of data throughout its lifecycle, from ingestion to archival, while remaining compliant with FAIR principles.]]></summary></entry><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 
 <p>On September 24 and 25, our colleagues Anis and Saptarshi led the organization of the first Interuniversity Biohackathon Belgium, marking the return of the Regional Student Group (RSG) Belgium of the International Society for Computational Biology (ISCB) after a five-year hiatus.</p>
@@ -153,7 +160,7 @@ We presented our attempt at adding to the rich contributions of the Belgian Rese
   <div class="img-3">
     <img src="/images/news/SCSO-3.jpg" alt="scso2025" style="width: 100%; object-fit: cover;" />
   </div>
-</div>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Welcome to the team Joran and Mora!</title><link href="/2025/10/01/welcome-fall2025.html" rel="alternate" type="text/html" title="Welcome to the team Joran and Mora!" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/welcome-fall2025</id><content type="html" xml:base="/2025/10/01/welcome-fall2025.html"><![CDATA[<!-- excerpt start -->
+</div>]]></content><author><name></name></author><category term="conference" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Welcome to the team Joran and Mora!</title><link href="/2025/10/01/welcome-fall2025.html" rel="alternate" type="text/html" title="Welcome to the team Joran and Mora!" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/welcome-fall2025</id><content type="html" xml:base="/2025/10/01/welcome-fall2025.html"><![CDATA[<!-- excerpt start -->
 <p>Welcoming our Newest Post doctoral Researcher Joran, and Master Thesis Student Mora!
 <!-- excerpt end --></p>]]></content><author><name></name></author><category term="team" /><summary type="html"><![CDATA[Welcoming our Newest Post doctoral Researcher Joran, and Master Thesis Student Mora!]]></summary></entry><entry><title type="html">LMIB Organizes a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School</title><link href="/2025/09/01/vib-summer-school.html" rel="alternate" type="text/html" title="LMIB Organizes a spatial omics hackathon at the VIB/SIB Machine learning and AI Summer School" /><published>2025-09-01T00:00:00+00:00</published><updated>2025-09-01T00:00:00+00:00</updated><id>/2025/09/01/vib-summer-school</id><content type="html" xml:base="/2025/09/01/vib-summer-school.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
