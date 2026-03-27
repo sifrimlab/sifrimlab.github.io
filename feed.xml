@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-03-27T10:57:56+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB at RSE 2025 - Automating FAIR Data Management in Academic Research Software Engineering</title><link href="/2025/12/01/rse-day.html" rel="alternate" type="text/html" title="LMIB at RSE 2025 - Automating FAIR Data Management in Academic Research Software Engineering" /><published>2025-12-01T00:00:00+00:00</published><updated>2025-12-01T00:00:00+00:00</updated><id>/2025/12/01/rse-day</id><content type="html" xml:base="/2025/12/01/rse-day.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-03-27T13:39:42+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>WELCOME TO THE LABORATORY OF MULTI-OMIC INTEGRATIVE BIOINFORMATICS (LMIB)</subtitle><entry><title type="html">LMIB Team Retreat in Gulpen, Netherlands.</title><link href="/2026/03/27/lmib-retreat.html" rel="alternate" type="text/html" title="LMIB Team Retreat in Gulpen, Netherlands." /><published>2026-03-27T00:00:00+00:00</published><updated>2026-03-27T00:00:00+00:00</updated><id>/2026/03/27/lmib-retreat</id><content type="html" xml:base="/2026/03/27/lmib-retreat.html"><![CDATA[<!-- excerpt start -->
+<!-- excerpt end -->
+<p>This week, the LMIB team held its annual lab retreat in Gulpen, nestled in the beautiful Limburg countryside, an ideal setting to rest, recharge, reflect on the past year, and plan our next steps as a lab.
+During the retreat, we explored Maastricht and its rich history, put our teamwork to the test in an escape room, and took part in workshops on collaboration, communication, and the effective use of AI tools.</p>
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/news/retreat-2026.JPG" style="
+        width: 75%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>]]></content><author><name></name></author><category term="team" /><summary type="html"><![CDATA[This week, the LMIB team held its annual lab retreat in Gulpen, nestled in the beautiful Limburg countryside, an ideal setting to rest, recharge, reflect on the past year, and plan our next steps as a lab. During the retreat, we explored Maastricht and its rich history, put our teamwork to the test in an escape room, and took part in workshops on collaboration, communication, and the effective use of AI tools.]]></summary></entry><entry><title type="html">LMIB at RSE 2025 - Automating FAIR Data Management in Academic Research Software Engineering</title><link href="/2025/12/01/rse-day.html" rel="alternate" type="text/html" title="LMIB at RSE 2025 - Automating FAIR Data Management in Academic Research Software Engineering" /><published>2025-12-01T00:00:00+00:00</published><updated>2025-12-01T00:00:00+00:00</updated><id>/2025/12/01/rse-day</id><content type="html" xml:base="/2025/12/01/rse-day.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 <p>Research Software Engineering (RSE) is a relatively new field that spans several disciplines while sitting at the intersection of software engineering and research. The needs of software engineering in academic research differ significantly from those of its traditional commercial counterpart. <br />
 We presented our attempt at adding to the rich contributions of the Belgian Research Software Engineering Community (BE-RSE) at the RSE Day organised by KU Leuven on 4 December 2025, with a demonstration of the Automated FAIR Data Management tool developed by our Data Engineer Saptarshi at LMIB/LISCO. This tool aims to automate the management of data throughout its lifecycle, from ingestion to archival, while remaining compliant with FAIR principles.</p>
@@ -275,53 +287,4 @@ We presented our attempt at adding to the rich contributions of the Belgian Rese
   <div class="img-3">
     <img src="/images/news/LMIBeaches-2025-3.jpg" alt="LMI Beach Event 2025" />
   </div>
-</div>]]></content><author><name></name></author><category term="awards" /><category term="team" /><summary type="html"><![CDATA[From code to court, the LMIBeaches proved that the LMIB can bring the heat. With sharp plays and even sharper focus, our team secured a solid third place in the VIB Beach Volley Tournament. Congratulations to the squad for showing that LMIBeaches can dominate the sand, too!]]></summary></entry><entry><title type="html">Announcing the Interuniversity Biohackathon Belgium 2025</title><link href="/2025/07/01/biohackathon-2025.html" rel="alternate" type="text/html" title="Announcing the Interuniversity Biohackathon Belgium 2025" /><published>2025-07-01T00:00:00+00:00</published><updated>2025-07-01T00:00:00+00:00</updated><id>/2025/07/01/biohackathon-2025</id><content type="html" xml:base="/2025/07/01/biohackathon-2025.html"><![CDATA[<!-- excerpt start -->
-<!-- excerpt end -->
-<style>
-  .biohackathon-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-
-  .biohackathon-text {
-    flex: 1 1 60%;
-    max-width: 60%;
-  }
-
-  .biohackathon-image {
-    flex: 1 1 35%;
-    max-width: 35%;
-  }
-
-  @media (max-width: 768px) {
-    .biohackathon-text,
-    .biohackathon-image {
-      flex: 1 1 100%;
-      max-width: 100%;
-    }
-  }
-</style>
-
-<div class="biohackathon-container">
-  <div class="biohackathon-text">
-    <p>We are excited to host and lead the upcoming <strong>Interuniversity Biohackathon Belgium</strong>, taking place <strong>September 25–26, 2025</strong>, in <strong>Leuven</strong>. We warmly invite you to join us for this collaborative event!</p>
-
-    <p>This two-day event brings together MSc and PhD students, postdocs, researchers, and professionals working at the interface of AI and bioinformatics. Organized in collaboration with KU Leuven, Vrije Universiteit Brussel, University of Antwerp, and the <a href="https://www.rsg-belgium.iscbsc.org/">Regional Student Group of ISCB in Belgium</a>, the hackathon features hands-on challenges, keynote talks, and excellent networking opportunities.</p>
-
-    <p>If you are interested in attending the hackathon, then make sure to register <a href="https://rsgbelgium.github.io/news/2025-09-01-interuniversity-hackathon">here</a> before <strong>September 18, 2025</strong>.</p>
-  </div>
-
-  <div class="biohackathon-image">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/Interuniversity_Biohackathon_2025.jpg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-</div>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="awards" /><category term="team" /><summary type="html"><![CDATA[From code to court, the LMIBeaches proved that the LMIB can bring the heat. With sharp plays and even sharper focus, our team secured a solid third place in the VIB Beach Volley Tournament. Congratulations to the squad for showing that LMIBeaches can dominate the sand, too!]]></summary></entry></feed>
