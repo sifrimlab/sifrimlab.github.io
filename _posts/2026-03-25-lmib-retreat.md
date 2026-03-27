@@ -1,5 +1,5 @@
 ---
-title: LMIB Team Retreat in Gulpen, Netherlands. 
+title: LMIB Team Retreat in Gulpen, Netherlands
 tags:
   - team
 last_modified_at: ""
