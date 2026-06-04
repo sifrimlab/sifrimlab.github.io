@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/S41593-025-02101-2
+  title: Axonal Eif5a hypusination controls local translation and mitigates defects
+    in FUS-ALS
+  authors:
+  - Diana Piol
+  - Bilal Khalil
+  - Tessa Robberechts
+  - Theo Killian
+  - Maria Georgopoulou
+  - Gabriele Partel
+  - David Wouters
+  - Nikolai Hecker
+  - Paraskevi Tziortzouda
+  - Yana Verresen
+  - Nikky Corthout
+  - Sam Kint
+  - Katy Vandereyken
+  - Philip Van Damme
+  - Thierry Voet
+  - Kristofer Davie
+  - Suresh Poovathingal
+  - Ludo Van Den Bosch
+  - Stein Aerts
+  - Alejandro Sifrim
+  - Sandrine Da Cruz
+  publisher: Nature Neuroscience
+  date: '2025-12-22'
+  link: https://doi.org/hbjq6k
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.12.09.693234
   title: Motor System Oligodendroglia Atlas Reveals Activation States Associated with
     Region-Specific Vulnerability in ALS
@@ -63,6 +94,81 @@
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/ALZ.70483
+  title: "Alzheimer's disease and its co\u2010pathologies: Implications for hippocampal\
+    \ degeneration, cognitive decline, and the role of\n                    <i>APOE</i>\n\
+    \                    \u03B54"
+  authors:
+  - Klara Gawor
+  - Sam Verrept
+  - Geethika Arekatla
+  - David Wouters
+  - Alicja Ronisz
+  - Moritz Hecht
+  - Celeste Laureyssen
+  - Helena Ver Donck
+  - Bas Lahaije
+  - Simona Ospitalieri
+  - Mathieu Vandenbulcke
+  - Markus Otto
+  - Christine A. F. von Arnim
+  - Estifanos Ghebremedhin
+  - Bernard Hanseeuw
+  - Rik Vandenberghe
+  - Matthew Blaschko
+  - Alejandro Sifrim
+  - Kristel Sleegers
+  - Dietmar Rudolf Thal
+  - "Sandra O. Tom\xE9"
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-07-01'
+  link: https://doi.org/hb6k48
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.18.643853
+  title: Defining the role of fibroblasts in skin expansion
+  authors:
+  - Caroline Aguilera Stewart
+  - Ceyhun Alar
+  - Leslie Bargsted
+  - Ioanna Kaklamanou
+  - Gaia Andrea Gozza
+  - Maria Pia Polito
+  - Elena Enzo
+  - Alejandro Sifrim
+  - Mariaceleste Aragona
+  publisher: openRxiv
+  date: '2025-03-19'
+  link: https://doi.org/hb6k49
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/NAR/GKAF173
+  title: Single-cell genome and transcriptome sequencing without upfront whole-genome
+    amplification reveals cell state plasticity of melanoma subclones
+  authors:
+  - Koen Theunis
+  - Sebastiaan Vanuytven
+  - Irene Claes
+  - Jarne Geurts
+  - Florian Rambow
+  - Daniel Brown
+  - "Michiel Van\_Der\_Haegen"
+  - Oskar Marin-Bejar
+  - Aljosja Rogiers
+  - "Nina Van\_Raemdonck"
+  - Eleonora Leucci
+  - Jonas Demeulemeester
+  - Alejandro Sifrim
+  - Jean-Christophe Marine
+  - Thierry Voet
+  publisher: Nucleic Acids Research
+  date: '2025-03-20'
+  link: https://doi.org/hb6k5b
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.11.29.626054
   title: Single cell transcriptomics reveal mast cell heterogeneity in the human gut
   authors:
@@ -77,6 +183,154 @@
   publisher: openRxiv
   date: '2024-12-03'
   link: https://doi.org/g8trwm
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JHEP.2023.10.039
+  title: Adipose tissue macrophage dysfunction is associated with a breach of vascular
+    integrity in NASH
+  authors:
+  - Markus Boesch
+  - Andreas Lindhorst
+  - Rita Feio-Azevedo
+  - Paola Brescia
+  - Alessandra Silvestri
+  - Matthias Lannoo
+  - Ellen Deleus
+  - Joris Jaekers
+  - Halit Topal
+  - Baki Topal
+  - Tessa Ostyn
+  - Marie Wallays
+  - Lena Smets
+  - Lukas Van Melkebeke
+  - "Anetta H\xE4rtlova"
+  - Tania Roskams
+  - Pierre Bedossa
+  - Jef Verbeek
+  - Olivier Govaere
+  - Sven Francque
+  - Alejandro Sifrim
+  - Thierry Voet
+  - Maria Rescigno
+  - Martin Gericke
+  - Hannelie Korf
+  - Schalk van der Merwe
+  publisher: Journal of Hepatology
+  date: '2024-03-01'
+  link: https://doi.org/gtjfw7
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-024-54843-5
+  title: Collagen signaling and matrix stiffness regulate multipotency in glandular
+    epithelial stem cells in mice
+  authors:
+  - Chen Jiang
+  - Alessia Centonze
+  - Yura Song
+  - Antonius Chrisnandy
+  - Elisavet Tika
+  - Saba Rezakhani
+  - Zahra Zahedi
+  - "Ga\xEBlle Bouvencourt"
+  - Christine Dubois
+  - Alexandra Van Keymeulen
+  - "Matthias L\xFCtolf"
+  - Alejandro Sifrim
+  - "C\xE9dric Blanpain"
+  publisher: Nature Communications
+  date: '2024-12-18'
+  link: https://doi.org/hb6k5c
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.GIM.2023.101059
+  title: Differential alternative splicing analysis links variation in ZRSR2 to a
+    novel type of oral-facial-digital syndrome
+  authors:
+  - Laurens Hannes
+  - Marta Atzori
+  - Alice Goldenberg
+  - "Jes\xFAs Argente"
+  - Tania Attie-Bitach
+  - Jeanne Amiel
+  - Catia Attanasio
+  - "D\xE9bora G. Braslavsky"
+  - Ange-Line Bruel
+  - Mireille Castanet
+  - "Christ\xE8le Dubourg"
+  - An Jacobs
+  - Stanislas Lyonnet
+  - Julian Martinez-Mayer
+  - "Mar\xEDa In\xE9s P\xE9rez Mill\xE1n"
+  - Nunziana Pezzella
+  - Elise Pelgrims
+  - Mio Aerden
+  - Marijke Bauters
+  - Anne Rochtus
+  - Paula Scaglia
+  - Ann Swillen
+  - Alejandro Sifrim
+  - Roberta Tammaro
+  - Frederic Tran Mau-Them
+  - Sylvie Odent
+  - Christel Thauvin-Robinet
+  - Brunella Franco
+  - Jeroen Breckpot
+  publisher: Genetics in Medicine
+  date: '2024-04-01'
+  link: https://doi.org/hb6k5d
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001147414902198
+  title: Exome-based case-control study identifies NOTCH1 variants as the major monogenic
+    cause of CHD
+  authors: []
+  publisher: EUROPEAN JOURNAL OF HUMAN GENETICS
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001147414902198
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001282837704087
+  title: IDENTIFICATION OF THE NEURON-ASSOCIATED MACROHAGE POPULATION IN THE HUMAN
+    GUT
+  authors: []
+  publisher: GASTROENTEROLOGY
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001282837704087
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/SCIADV.ADP6164
+  title: Secreted Apoe rewires melanoma cell state vulnerability to ferroptosis
+  authors:
+  - Sanket More
+  - Julie Bonnereau
+  - David Wouters
+  - Xander Spotbeen
+  - Panagiotis Karras
+  - Francesca Rizzollo
+  - Theo Killian
+  - Tom Venken
+  - Stefan Naulaerts
+  - Ellen Vervoort
+  - Maarten Ganne
+  - David Nittner
+  - Jelle Verhoeven
+  - Oliver Bechter
+  - Francesca Bosisio
+  - Diether Lambrechts
+  - Alejandro Sifrim
+  - Brent R. Stockwell
+  - Johannes V. Swinnen
+  - Jean Christophe Marine
+  - Patrizia Agostinis
+  publisher: Science Advances
+  date: '2024-10-18'
+  link: https://doi.org/hb6k5f
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
@@ -144,6 +398,185 @@
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:001037135103107
+  title: Adipose tissue macrophage dysfunction and depletion are associated with a
+    breach of vascular integrity in non-alcoholic steatohepatitis
+  authors: []
+  publisher: JOURNAL OF HEPATOLOGY
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001037135103107
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41586-023-06200-7
+  title: Dedicated macrophages organize and maintain the enteric nervous system
+  authors:
+  - Maria Francesca Viola
+  - Marta Chavero-Pieres
+  - Elodie Modave
+  - Marcello Delfini
+  - Nathalie Stakenborg
+  - "Maria Cuende Est\xE9vez"
+  - Naomi Fabre
+  - Iris Appeltans
+  - Tobie Martens
+  - Katy Vandereyken
+  - Hannah Theobald
+  - Jens Van Herck
+  - Philippe Petry
+  - Simon Verheijden
+  - Sebastiaan De Schepper
+  - Alejandro Sifrim
+  - Zhaoyuan Liu
+  - Florent Ginhoux
+  - Mohamad Azhar
+  - Andreas Schlitzer
+  - Gianluca Matteoli
+  - Katrin Kierdorf
+  - Marco Prinz
+  - Pieter Vanden Berghe
+  - Thierry Voet
+  - Guy Boeckxstaens
+  publisher: Nature
+  date: '2023-06-14'
+  link: https://doi.org/gtk5xd
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001050507001620
+  title: Differential alternative splicing analysis to link variation in ZRSR2 to
+    a novel syndrome with oral, digital and brain anomalies
+  authors: []
+  publisher: EUROPEAN JOURNAL OF HUMAN GENETICS
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001050507001620
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41576-023-00580-2
+  title: Methods and applications for single-cell and spatial multi-omics
+  authors:
+  - Katy Vandereyken
+  - Alejandro Sifrim
+  - Bernard Thienpont
+  - Thierry Voet
+  publisher: Nature Reviews Genetics
+  date: '2023-03-02'
+  link: https://doi.org/grzkpb
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41586-023-06372-2
+  title: Pharmacological targeting of netrin-1 inhibits EMT in cancer
+  authors:
+  - Justine Lengrand
+  - Ievgenia Pastushenko
+  - Sebastiaan Vanuytven
+  - Yura Song
+  - David Venet
+  - Rahul M. Sarate
+  - Melanie Bellina
+  - Virginie Moers
+  - Alice Boinet
+  - Alejandro Sifrim
+  - Nicolas Rama
+  - Benjamin Ducarouge
+  - Jens Van Herck
+  - Christine Dubois
+  - Samuel Scozzaro
+  - Sophie Lemaire
+  - Sarah Gieskes
+  - Sophie Bonni
+  - Amandine Collin
+  - Nicolas Braissand
+  - Justine Allard
+  - Egor Zindy
+  - Christine Decaestecker
+  - Christos Sotiriou
+  - Isabelle Salmon
+  - Patrick Mehlen
+  - Thierry Voet
+  - "Agn\xE8s Bernet"
+  - "C\xE9dric Blanpain"
+  publisher: Nature
+  date: '2023-08-02'
+  link: https://doi.org/gssd8z
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.13.521174
+  title: Single-cell Genome-and-Transcriptome sequencing without upfront whole-genome
+    amplification reveals cell state plasticity of melanoma subclones
+  authors:
+  - Koen Theunis
+  - Sebastiaan Vanuytven
+  - Florian Rambow
+  - Daniel Brown
+  - Michiel Van Der Haegen
+  - Oskar Marin-Bejar
+  - Aljosja Rogiers
+  - Nina Van Raemdonck
+  - Eleonora Leucci
+  - Jonas Demeulemeester
+  - Alejandro Sifrim
+  - Jean-Christophe Marine
+  - Thierry Voet
+  publisher: openRxiv
+  date: '2023-01-13'
+  link: https://doi.org/hb6k5g
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41586-023-06740-Y
+  title: The extracellular matrix dictates regional competence for tumour initiation
+  authors:
+  - Nordin Bansaccal
+  - Pauline Vieugue
+  - Rahul Sarate
+  - Yura Song
+  - Esmeralda Minguijon
+  - Yekaterina A. Miroshnikova
+  - Dagmar Zeuschner
+  - Amandine Collin
+  - Justine Allard
+  - Dan Engelman
+  - Anne-Lise Delaunois
+  - "M\xE9lanie Liagre"
+  - Leona de Groote
+  - Evy Timmerman
+  - Delphi Van Haver
+  - Francis Impens
+  - Isabelle Salmon
+  - "Sara A. Wickstr\xF6m"
+  - Alejandro Sifrim
+  - "C\xE9dric Blanpain"
+  publisher: Nature
+  date: '2023-11-15'
+  link: https://doi.org/g8wp8t
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000840076001098
+  title: A multi-omics genome-plus-transcriptome single-cell atlas of human pre-implantation
+    development reveals the impact of chromosome instability on cell function within
+    the embryo
+  authors: []
+  publisher: HUMAN REPRODUCTION
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000840076001098
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000826275103316
+  title: Unravelling the landscape of adipose tissue macrophages in human non-alcoholic
+    fatty liver disease
+  authors: []
+  publisher: JOURNAL OF HEPATOLOGY
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000826275103316
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1009679
   title: Integrative analysis of genomic variants reveals new associations of candidate
     haploinsufficient genes with congenital heart disease
@@ -201,6 +634,363 @@
   publisher: PLOS Genetics
   date: '2021-07-29'
   link: https://doi.org/gmdk68
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJHG.2021.09.010
+  title: Detecting cryptic clinically relevant structural variation in exome-sequencing
+    data increases diagnostic yield for developmental disorders
+  authors:
+  - Eugene J. Gardner
+  - Alejandro Sifrim
+  - Sarah J. Lindsay
+  - Elena Prigmore
+  - Diana Rajan
+  - Petr Danecek
+  - Giuseppe Gallone
+  - Ruth Y. Eberhardt
+  - Hilary C. Martin
+  - Caroline F. Wright
+  - David R. FitzPatrick
+  - Helen V. Firth
+  - Matthew E. Hurles
+  publisher: The American Journal of Human Genetics
+  date: '2021-11-01'
+  link: https://doi.org/gm3567
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PGEN.1009809
+  title: 'Correction: Integrative analysis of genomic variants reveals new associations
+    of candidate haploinsufficient genes with congenital heart disease'
+  authors:
+  - Enrique Audain
+  - Anna Wilsdon
+  - Jeroen Breckpot
+  - Jose M. G. Izarzugaza
+  - Tomas W. Fitzgerald
+  - Anne-Karin Kahlert
+  - Alejandro Sifrim
+  - "Florian W\xFCnnemann"
+  - Yasset Perez-Riverol
+  - Hashim Abdul-Khaliq
+  - Mads Bak
+  - Anne S. Bassett
+  - D. Woodrow Benson
+  - Felix Berger
+  - Ingo Daehnert
+  - Koenraad Devriendt
+  - Sven Dittrich
+  - Piers EF Daubeney
+  - Vidu Garg
+  - Karl Hackmann
+  - Kirstin Hoff
+  - Philipp Hofmann
+  - Gregor Dombrowsky
+  - Thomas Pickardt
+  - Ulrike Bauer
+  - Bernard D. Keavney
+  - Sabine Klaassen
+  - Hans-Heiner Kramer
+  - Christian R. Marshall
+  - Dianna M. Milewicz
+  - Scott Lemaire
+  - Joseph S. Coselli
+  - Michael E. Mitchell
+  - Aoy Tomita-Mitchell
+  - Siddharth K. Prakash
+  - Karl Stamm
+  - Alexandre F. R. Stewart
+  - Candice K. Silversides
+  - Reiner Siebert
+  - Brigitte Stiller
+  - Jill A. Rosenfeld
+  - Inga Vater
+  - Alex V. Postma
+  - Almuth Caliebe
+  - J. David Brook
+  - Gregor Andelfinger
+  - Matthew E. Hurles
+  - Bernard Thienpont
+  - Lars Allan Larsen
+  - Marc-Phillip Hitz
+  publisher: PLOS Genetics
+  date: '2021-09-21'
+  link: https://doi.org/hb6k5h
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-020-20852-3
+  title: The contribution of X-linked coding variation to severe developmental disorders
+  authors:
+  - Hilary C. Martin
+  - Eugene J. Gardner
+  - Kaitlin E. Samocha
+  - Joanna Kaplanis
+  - Nadia Akawi
+  - Alejandro Sifrim
+  - Ruth Y. Eberhardt
+  - Ana Lisa Taylor Tavares
+  - Matthew D. C. Neville
+  - Mari E. K. Niemi
+  - Giuseppe Gallone
+  - Jeremy McRae
+  - Silvia Borras
+  - Caroline Clark
+  - John Dean
+  - Zosia Miedzybrodzka
+  - Alison Ross
+  - Stephen Tennant
+  - Tabib Dabir
+  - Deirdre Donnelly
+  - Mervyn Humphreys
+  - Alex Magee
+  - Vivienne McConnell
+  - Shane McKee
+  - Susan McNerlan
+  - Patrick J. Morrison
+  - Gillian Rea
+  - Fiona Stewart
+  - Trevor Cole
+  - Nicola Cooper
+  - Lisa Cooper-Charles
+  - Helen Cox
+  - Lily Islam
+  - Joanna Jarvis
+  - Rebecca Keelagher
+  - Derek Lim
+  - Dominic McMullan
+  - Jenny Morton
+  - Swati Naik
+  - "Mary O\u2019Driscoll"
+  - Kai-Ren Ong
+  - Deborah Osio
+  - Nicola Ragge
+  - Sarah Turton
+  - Julie Vogt
+  - Denise Williams
+  - Simon Bodek
+  - Alan Donaldson
+  - Alison Hills
+  - Karen Low
+  - Ruth Newbury-Ecob
+  - Andrew M. Norman
+  - Eileen Roberts
+  - Ingrid Scurr
+  - Sarah Smithson
+  - Madeleine Tooley
+  - Steve Abbs
+  - Ruth Armstrong
+  - Carolyn Dunn
+  - Simon Holden
+  - Soo-Mi Park
+  - Joan Paterson
+  - Lucy Raymond
+  - Evan Reid
+  - Richard Sandford
+  - Ingrid Simonic
+  - Marc Tischkowitz
+  - Geoff Woods
+  - Lisa Bradley
+  - Joanne Comerford
+  - Andrew Green
+  - Sally Lynch
+  - Shirley McQuaid
+  - Brendan Mullaney
+  - Jonathan Berg
+  - David Goudie
+  - Eleni Mavrak
+  - Joanne McLean
+  - Catherine McWilliam
+  - Eleanor Reavey
+  - Tara Azam
+  - Elaine Cleary
+  - Andrew Jackson
+  - Wayne Lam
+  - Anne Lampe
+  - David Moore
+  - Mary Porteous
+  - Emma Baple
+  - "J\xFAlia Baptista"
+  - Carole Brewer
+  - Bruce Castle
+  - Emma Kivuva
+  - Martina Owens
+  - Julia Rankin
+  - Charles Shaw-Smith
+  - Claire Turner
+  - Peter Turnpenny
+  - Carolyn Tysoe
+  - Therese Bradley
+  - Rosemarie Davidson
+  - Carol Gardiner
+  - Shelagh Joss
+  - Esther Kinning
+  - Cheryl Longman
+  - Ruth McGowan
+  - Victoria Murday
+  - Daniela Pilz
+  - Edward Tobias
+  - Margo Whiteford
+  - Nicola Williams
+  - Angela Barnicoat
+  - Emma Clement
+  - Francesca Faravelli
+  - Jane Hurst
+  - Lucy Jenkins
+  - Wendy Jones
+  - V.K.Ajith Kumar
+  - Melissa Lees
+  - Sam Loughlin
+  - Alison Male
+  - Deborah Morrogh
+  - Elisabeth Rosser
+  - Richard Scott
+  - Louise Wilson
+  - Ana Beleza
+  - Charu Deshpande
+  - Frances Flinter
+  - Muriel Holder
+  - Melita Irving
+  - Louise Izatt
+  - Dragana Josifova
+  - Shehla Mohammed
+  - Aneta Molenda
+  - Leema Robert
+  - Wendy Roworth
+  - Deborah Ruddy
+  - Mina Ryten
+  - Shu Yau
+  - Christopher Bennett
+  - Moira Blyth
+  - Jennifer Campbell
+  - Andrea Coates
+  - Angus Dobbie
+  - Sarah Hewitt
+  - Emma Hobson
+  - Eilidh Jackson
+  - Rosalyn Jewell
+  - Alison Kraus
+  - Katrina Prescott
+  - Eamonn Sheridan
+  - Jenny Thomson
+  - Kirsty Bradshaw
+  - Abhijit Dixit
+  - Jacqueline Eason
+  - Rebecca Haines
+  - Rachel Harrison
+  - Stacey Mutch
+  - Ajoy Sarkar
+  - Claire Searle
+  - Nora Shannon
+  - Abid Sharif
+  - Mohnish Suri
+  - Pradeep Vasudevan
+  - Natalie Canham
+  - Ian Ellis
+  - Lynn Greenhalgh
+  - Emma Howard
+  - Victoria Stinton
+  - Andrew Swale
+  - Astrid Weber
+  - Siddharth Banka
+  - Catherine Breen
+  - Tracy Briggs
+  - Emma Burkitt-Wright
+  - Kate Chandler
+  - Jill Clayton-Smith
+  - Dian Donnai
+  - Sofia Douzgou
+  - Lorraine Gaunt
+  - Elizabeth Jones
+  - Bronwyn Kerr
+  - Claire Langley
+  - Kay Metcalfe
+  - Audrey Smith
+  - Ronnie Wright
+  - David Bourn
+  - John Burn
+  - Richard Fisher
+  - Steve Hellens
+  - Alex Henderson
+  - Tara Montgomery
+  - Miranda Splitt
+  - Volker Straub
+  - Michael Wright
+  - Simon Zwolinski
+  - Zoe Allen
+  - Birgitta Bernhard
+  - Angela Brady
+  - Claire Brooks
+  - Louise Busby
+  - Virginia Clowes
+  - Neeti Ghali
+  - Susan Holder
+  - Rita Ibitoye
+  - Emma Wakeling
+  - Edward Blair
+  - Jenny Carmichael
+  - Deirdre Cilliers
+  - Susan Clasper
+  - Richard Gibbons
+  - Usha Kini
+  - Tracy Lester
+  - Andrea Nemeth
+  - Joanna Poulton
+  - Sue Price
+  - Debbie Shears
+  - Helen Stewart
+  - Andrew Wilkie
+  - Shadi Albaba
+  - Duncan Baker
+  - Meena Balasubramanian
+  - Diana Johnson
+  - Michael Parker
+  - Oliver Quarrell
+  - Alison Stewart
+  - Josh Willoughby
+  - Charlene Crosby
+  - Frances Elmslie
+  - Tessa Homfray
+  - Huilin Jin
+  - Nayana Lahiri
+  - Sahar Mansour
+  - Karen Marks
+  - Meriel McEntagart
+  - Anand Saggar
+  - Kate Tatton-Brown
+  - Rachel Butler
+  - Angus Clarke
+  - Sian Corrin
+  - Andrew Fry
+  - Arveen Kamath
+  - Emma McCann
+  - Hood Mugalaasi
+  - Caroline Pottinger
+  - Annie Procter
+  - Julian Sampson
+  - Francis Sansbury
+  - Vinod Varghese
+  - Diana Baralle
+  - Alison Callaway
+  - Emma J. Cassidy
+  - Stacey Daniels
+  - Andrew Douglas
+  - Nicola Foulds
+  - David Hunt
+  - Mira Kharbanda
+  - Katherine Lachlan
+  - Catherine Mercer
+  - Lucy Side
+  - I. Karen Temple
+  - Diana Wellesley
+  - Caroline F. Wright
+  - David R. FitzPatrick
+  - Helen V. Firth
+  - Matthew E. Hurles
+  publisher: Nature Communications
+  date: '2021-01-27'
+  link: https://doi.org/ghxh2b
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
@@ -2004,6 +2794,848 @@
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/S41467-019-10161-9
+  title: 'Author Correction: CHD3 helicase domain mutations cause a neurodevelopmental
+    syndrome with macrocephaly and impaired speech and language'
+  authors:
+  - Lot Snijders Blok
+  - Justine Rousseau
+  - Joanna Twist
+  - Sophie Ehresmann
+  - Motoki Takaku
+  - Hanka Venselaar
+  - Lance H. Rodan
+  - Catherine B. Nowak
+  - Jessica Douglas
+  - Kathryn J. Swoboda
+  - Marcie A. Steeves
+  - Inderneel Sahai
+  - Connie T. R. M. Stumpel
+  - Alexander P. A. Stegmann
+  - Patricia Wheeler
+  - Marcia Willing
+  - Elise Fiala
+  - Aaina Kochhar
+  - William T. Gibson
+  - Ana S. A. Cohen
+  - Ruky Agbahovbe
+  - A. Micheil Innes
+  - P. Y. Billie Au
+  - Julia Rankin
+  - Ilse J. Anderson
+  - Steven A. Skinner
+  - Raymond J. Louie
+  - Hannah E. Warren
+  - Alexandra Afenjar
+  - Boris Keren
+  - Caroline Nava
+  - Julien Buratti
+  - Arnaud Isapof
+  - Diana Rodriguez
+  - Raymond Lewandowski
+  - Jennifer Propst
+  - Ton van Essen
+  - Murim Choi
+  - Sangmoon Lee
+  - Jong H. Chae
+  - Susan Price
+  - Rhonda E. Schnur
+  - Ganka Douglas
+  - Ingrid M. Wentzensen
+  - Christiane Zweier
+  - "Andr\xE9 Reis"
+  - Martin G. Bialer
+  - Christine Moore
+  - Marije Koopmans
+  - Eva H. Brilstra
+  - Glen R. Monroe
+  - Koen L. I. van Gassen
+  - Ellen van Binsbergen
+  - Ruth Newbury-Ecob
+  - Lucy Bownass
+  - Ingrid Bader
+  - Johannes A. Mayr
+  - Saskia B. Wortmann
+  - Kathy J. Jakielski
+  - Edythe A. Strand
+  - Katja Kloth
+  - Tatjana Bierhals
+  - Jeremy F. McRae
+  - Stephen Clayton
+  - Tomas W. Fitzgerald
+  - Joanna Kaplanis
+  - Elena Prigmore
+  - Diana Rajan
+  - Alejandro Sifrim
+  - Stuart Aitken
+  - Nadia Akawi
+  - Mohsan Alvi
+  - Kirsty Ambridge
+  - Daniel M. Barrett
+  - Tanya Bayzetinova
+  - Philip Jones
+  - Wendy D. Jones
+  - Daniel King
+  - Netravathi Krishnappa
+  - Laura E. Mason
+  - Tarjinder Singh
+  - Adrian R. Tivey
+  - Munaza Ahmed
+  - Uruj Anjum
+  - Hayley Archer
+  - Ruth Armstrong
+  - Jana Awada
+  - Meena Balasubramanian
+  - Siddharth Banka
+  - Diana Baralle
+  - Angela Barnicoat
+  - Paul Batstone
+  - David Baty
+  - Chris Bennett
+  - Jonathan Berg
+  - Birgitta Bernhard
+  - A. Paul Bevan
+  - Maria Bitner-Glindzicz
+  - Edward Blair
+  - Moira Blyth
+  - David Bohanna
+  - Louise Bourdon
+  - David Bourn
+  - Lisa Bradley
+  - Angela Brady
+  - Simon Brent
+  - Carole Brewer
+  - Kate Brunstrom
+  - David J. Bunyan
+  - John Burn
+  - Natalie Canham
+  - Bruce Castle
+  - Kate Chandler
+  - Elena Chatzimichali
+  - Deirdre Cilliers
+  - Angus Clarke
+  - Susan Clasper
+  - Jill Clayton-Smith
+  - Virginia Clowes
+  - Andrea Coates
+  - Trevor Cole
+  - Irina Colgiu
+  - Amanda Collins
+  - Morag N. Collinson
+  - Fiona Connell
+  - Nicola Cooper
+  - Helen Cox
+  - Lara Cresswell
+  - Gareth Cross
+  - Yanick Crow
+  - "Mariella D\u2019Alessandro"
+  - Tabib Dabir
+  - Rosemarie Davidson
+  - Sally Davies
+  - Dylan de Vries
+  - John Dean
+  - Charu Deshpande
+  - Gemma Devlin
+  - Abhijit Dixit
+  - Angus Dobbie
+  - Alan Donaldson
+  - Dian Donnai
+  - Deirdre Donnelly
+  - Carina Donnelly
+  - Angela Douglas
+  - Sofia Douzgou
+  - Alexis Duncan
+  - Jacqueline Eason
+  - Sian Ellard
+  - Ian Ellis
+  - Frances Elmslie
+  - Karenza Evans
+  - Sarah Everest
+  - Tina Fendick
+  - Richard Fisher
+  - Frances Flinter
+  - Nicola Foulds
+  - Andrew Fry
+  - Alan Fryer
+  - Carol Gardiner
+  - Lorraine Gaunt
+  - Neeti Ghali
+  - Richard Gibbons
+  - Harinder Gill
+  - Judith Goodship
+  - David Goudie
+  - Emma Gray
+  - Andrew Green
+  - Philip Greene
+  - Lynn Greenhalgh
+  - Susan Gribble
+  - Rachel Harrison
+  - Lucy Harrison
+  - Victoria Harrison
+  - Rose Hawkins
+  - Liu He
+  - Stephen Hellens
+  - Alex Henderson
+  - Sarah Hewitt
+  - Lucy Hildyard
+  - Emma Hobson
+  - Simon Holden
+  - Muriel Holder
+  - Susan Holder
+  - Georgina Hollingsworth
+  - Tessa Homfray
+  - Mervyn Humphreys
+  - Jane Hurst
+  - Ben Hutton
+  - Stuart Ingram
+  - Melita Irving
+  - Lily Islam
+  - Andrew Jackson
+  - Joanna Jarvis
+  - Lucy Jenkins
+  - Diana Johnson
+  - Elizabeth Jones
+  - Dragana Josifova
+  - Shelagh Joss
+  - Beckie Kaemba
+  - Sandra Kazembe
+  - Rosemary Kelsell
+  - Bronwyn Kerr
+  - Helen Kingston
+  - Usha Kini
+  - Esther Kinning
+  - Gail Kirby
+  - Claire Kirk
+  - Emma Kivuva
+  - Alison Kraus
+  - Dhavendra Kumar
+  - V. K. Ajith Kumar
+  - Katherine Lachlan
+  - Wayne Lam
+  - Anne Lampe
+  - Caroline Langman
+  - Melissa Lees
+  - Derek Lim
+  - Cheryl Longman
+  - Gordon Lowther
+  - Sally A. Lynch
+  - Alex Magee
+  - Eddy Maher
+  - Alison Male
+  - Sahar Mansour
+  - Karen Marks
+  - Katherine Martin
+  - Una Maye
+  - Emma McCann
+  - Vivienne McConnell
+  - Meriel McEntagart
+  - Ruth McGowan
+  - Kirsten McKay
+  - Shane McKee
+  - Dominic J. McMullan
+  - Susan McNerlan
+  - Catherine McWilliam
+  - Sarju Mehta
+  - Kay Metcalfe
+  - Anna Middleton
+  - Zosia Miedzybrodzka
+  - Emma Miles
+  - Shehla Mohammed
+  - Tara Montgomery
+  - David Moore
+  - Sian Morgan
+  - Jenny Morton
+  - Hood Mugalaasi
+  - Victoria Murday
+  - Helen Murphy
+  - Swati Naik
+  - Andrea Nemeth
+  - Louise Nevitt
+  - Andrew Norman
+  - "Rosie O\u2019Shea"
+  - Caroline Ogilvie
+  - Kai-Ren Ong
+  - Soo-Mi Park
+  - Michael J. Parker
+  - Chirag Patel
+  - Joan Paterson
+  - Stewart Payne
+  - Daniel Perrett
+  - Julie Phipps
+  - Daniela T. Pilz
+  - Martin Pollard
+  - Caroline Pottinger
+  - Joanna Poulton
+  - Norman Pratt
+  - Katrina Prescott
+  - Abigail Pridham
+  - Annie Procter
+  - Hellen Purnell
+  - Oliver Quarrell
+  - Nicola Ragge
+  - Raheleh Rahbari
+  - Josh Randall
+  - Lucy Raymond
+  - Debbie Rice
+  - Leema Robert
+  - Eileen Roberts
+  - Jonathan Roberts
+  - Paul Roberts
+  - Gillian Roberts
+  - Alison Ross
+  - Elisabeth Rosser
+  - Anand Saggar
+  - Shalaka Samant
+  - Julian Sampson
+  - Richard Sandford
+  - Ajoy Sarkar
+  - Susann Schweiger
+  - Richard Scott
+  - Ingrid Scurr
+  - Ann Selby
+  - Anneke Seller
+  - Cheryl Sequeira
+  - Nora Shannon
+  - Saba Sharif
+  - Charles Shaw-Smith
+  - Emma Shearing
+  - Debbie Shears
+  - Eamonn Sheridan
+  - Ingrid Simonic
+  - Roldan Singzon
+  - Zara Skitt
+  - Audrey Smith
+  - Kath Smith
+  - Sarah Smithson
+  - Linda Sneddon
+  - Miranda Splitt
+  - Miranda Squires
+  - Fiona Stewart
+  - Helen Stewart
+  - Volker Straub
+  - Mohnish Suri
+  - Vivienne Sutton
+  - Ganesh Jawahar Swaminathan
+  - Elizabeth Sweeney
+  - Kate Tatton-Brown
+  - Cat Taylor
+  - Rohan Taylor
+  - Mark Tein
+  - I. Karen Temple
+  - Jenny Thomson
+  - Marc Tischkowitz
+  - Susan Tomkins
+  - Audrey Torokwa
+  - Becky Treacy
+  - Claire Turner
+  - Peter Turnpenny
+  - Carolyn Tysoe
+  - Anthony Vandersteen
+  - Vinod Varghese
+  - Pradeep Vasudevan
+  - Parthiban Vijayarangakannan
+  - Julie Vogt
+  - Emma Wakeling
+  - Sarah Wallwark
+  - Jonathon Waters
+  - Astrid Weber
+  - Diana Wellesley
+  - Margo Whiteford
+  - Sara Widaa
+  - Sarah Wilcox
+  - Emily Wilkinson
+  - Denise Williams
+  - Nicola Williams
+  - Louise Wilson
+  - Geoff Woods
+  - Christopher Wragg
+  - Michael Wright
+  - Laura Yates
+  - Michael Yau
+  - "Chris Nell\xE5ker"
+  - Michael Parker
+  - Helen V. Firth
+  - Caroline F. Wright
+  - David R. FitzPatrick
+  - Jeffrey C. Barrett
+  - Matthew E. Hurles
+  - John D. Roberts
+  - Robert M. Petrovich
+  - Shinichi Machida
+  - Hitoshi Kurumizaka
+  - Stefan Lelieveld
+  - Rolph Pfundt
+  - Sandra Jansen
+  - Pelagia Deriziotis
+  - Laurence Faivre
+  - Julien Thevenon
+  - Mirna Assoum
+  - Lawrence Shriberg
+  - Tjitske Kleefstra
+  - Han G. Brunner
+  - Paul A. Wade
+  - Simon E. Fisher
+  - Philippe M. Campeau
+  publisher: Nature Communications
+  date: '2019-05-02'
+  link: https://doi.org/hb6k5j
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-019-08800-2
+  title: 'Author Correction: CHD3 helicase domain mutations cause a neurodevelopmental
+    syndrome with macrocephaly and impaired speech and language'
+  authors:
+  - Lot Snijders Blok
+  - Justine Rousseau
+  - Joanna Twist
+  - Sophie Ehresmann
+  - Motoki Takaku
+  - Hanka Venselaar
+  - Lance H. Rodan
+  - Catherine B. Nowak
+  - Jessica Douglas
+  - Kathryn J. Swoboda
+  - Marcie A. Steeves
+  - Inderneel Sahai
+  - Connie T. R. M. Stumpel
+  - Alexander P. A. Stegmann
+  - Patricia Wheeler
+  - Marcia Willing
+  - Elise Fiala
+  - Aaina Kochhar
+  - William T. Gibson
+  - Ana S. A. Cohen
+  - Ruky Agbahovbe
+  - A. Micheil Innes
+  - P. Y. Billie Au
+  - Julia Rankin
+  - Ilse J. Anderson
+  - Steven A. Skinner
+  - Raymond J. Louie
+  - Hannah E. Warren
+  - Alexandra Afenjar
+  - Boris Keren
+  - Caroline Nava
+  - Julien Buratti
+  - Arnaud Isapof
+  - Diana Rodriguez
+  - Raymond Lewandowski
+  - Jennifer Propst
+  - Ton van Essen
+  - Murim Choi
+  - Sangmoon Lee
+  - Jong H. Chae
+  - Susan Price
+  - Rhonda E. Schnur
+  - Ganka Douglas
+  - Ingrid M. Wentzensen
+  - Christiane Zweier
+  - "Andr\xE9 Reis"
+  - Martin G. Bialer
+  - Christine Moore
+  - Marije Koopmans
+  - Eva H. Brilstra
+  - Glen R. Monroe
+  - Koen L. I. van Gassen
+  - Ellen van Binsbergen
+  - Ruth Newbury-Ecob
+  - Lucy Bownass
+  - Ingrid Bader
+  - Johannes A. Mayr
+  - Saskia B. Wortmann
+  - Kathy J. Jakielski
+  - Edythe A. Strand
+  - Katja Kloth
+  - Tatjana Bierhals
+  - Jeremy F. McRae
+  - Stephen Clayton
+  - Tomas W. Fitzgerald
+  - Joanna Kaplanis
+  - Elena Prigmore
+  - Diana Rajan
+  - Alejandro Sifrim
+  - Stuart Aitken
+  - Nadia Akawi
+  - Mohsan Alvi
+  - Kirsty Ambridge
+  - Daniel M. Barrett
+  - Tanya Bayzetinova
+  - Philip Jones
+  - Wendy D. Jones
+  - Daniel King
+  - Netravathi Krishnappa
+  - Laura E. Mason
+  - Tarjinder Singh
+  - Adrian R. Tivey
+  - Munaza Ahmed
+  - Uruj Anjum
+  - Hayley Archer
+  - Ruth Armstrong
+  - Jana Awada
+  - Meena Balasubramanian
+  - Siddharth Banka
+  - Diana Baralle
+  - Angela Barnicoat
+  - Paul Batstone
+  - David Baty
+  - Chris Bennett
+  - Jonathan Berg
+  - Birgitta Bernhard
+  - A. Paul Bevan
+  - Maria Bitner-Glindzicz
+  - Edward Blair
+  - Moira Blyth
+  - David Bohanna
+  - Louise Bourdon
+  - David Bourn
+  - Lisa Bradley
+  - Angela Brady
+  - Simon Brent
+  - Carole Brewer
+  - Kate Brunstrom
+  - David J. Bunyan
+  - John Burn
+  - Natalie Canham
+  - Bruce Castle
+  - Kate Chandler
+  - Elena Chatzimichali
+  - Deirdre Cilliers
+  - Angus Clarke
+  - Susan Clasper
+  - Jill Clayton-Smith
+  - Virginia Clowes
+  - Andrea Coates
+  - Trevor Cole
+  - Irina Colgiu
+  - Amanda Collins
+  - Morag N. Collinson
+  - Fiona Connell
+  - Nicola Cooper
+  - Helen Cox
+  - Lara Cresswell
+  - Gareth Cross
+  - Jill Clayton-Smith
+  - Virginia Clowes
+  - Andrea Coates
+  - Trevor Cole
+  - Irina Colgiu
+  - Amanda Collins
+  - Morag N. Collinson
+  - Fiona Connell
+  - Nicola Cooper
+  - Helen Cox
+  - Lara Cresswell
+  - Gareth Cross
+  - Yanick Crow
+  - "Mariella D\u2019Alessandro"
+  - Tabib Dabir
+  - Rosemarie Davidson
+  - Sally Davies
+  - Dylan de Vries
+  - John Dean
+  - Charu Deshpande
+  - Gemma Devlin
+  - Abhijit Dixit
+  - Angus Dobbie
+  - Alan Donaldson
+  - Dian Donnai
+  - Deirdre Donnelly
+  - Carina Donnelly
+  - Angela Douglas
+  - Sofia Douzgou
+  - Alexis Duncan
+  - Jacqueline Eason
+  - Sian Ellard
+  - Ian Ellis
+  - Frances Elmslie
+  - Karenza Evans
+  - Sarah Everest
+  - Tina Fendick
+  - Richard Fisher
+  - Frances Flinter
+  - Nicola Foulds
+  - Andrew Fry
+  - Alan Fryer
+  - Carol Gardiner
+  - Lorraine Gaunt
+  - Neeti Ghali
+  - Richard Gibbons
+  - Harinder Gill
+  - Judith Goodship
+  - David Goudie
+  - Emma Gray
+  - Andrew Green
+  - Philip Greene
+  - Lynn Greenhalgh
+  - Susan Gribble
+  - Rachel Harrison
+  - Lucy Harrison
+  - Victoria Harrison
+  - Rose Hawkins
+  - Liu He
+  - Stephen Hellens
+  - Alex Henderson
+  - Sarah Hewitt
+  - Lucy Hildyard
+  - Emma Hobson
+  - Simon Holden
+  - Muriel Holder
+  - Susan Holder
+  - Georgina Hollingsworth
+  - Tessa Homfray
+  - Mervyn Humphreys
+  - Jane Hurst
+  - Ben Hutton
+  - Stuart Ingram
+  - Melita Irving
+  - Lily Islam
+  - Andrew Jackson
+  - Joanna Jarvis
+  - Lucy Jenkins
+  - Diana Johnson
+  - Elizabeth Jones
+  - Dragana Josifova
+  - Shelagh Joss
+  - Beckie Kaemba
+  - Sandra Kazembe
+  - Rosemary Kelsell
+  - Bronwyn Kerr
+  - Helen Kingston
+  - Usha Kini
+  - Esther Kinning
+  - Gail Kirby
+  - Claire Kirk
+  - Emma Kivuva
+  - Alison Kraus
+  - Dhavendra Kumar
+  - V. K. Ajith Kumar
+  - Katherine Lachlan
+  - Wayne Lam
+  - Anne Lampe
+  - Caroline Langman
+  - Melissa Lees
+  - Derek Lim
+  - Cheryl Longman
+  - Gordon Lowther
+  - Sally A. Lynch
+  - Alex Magee
+  - Eddy Maher
+  - Alison Male
+  - Sahar Mansour
+  - Karen Marks
+  - Katherine Martin
+  - Una Maye
+  - Emma McCann
+  - Vivienne McConnell
+  - Meriel McEntagart
+  - Ruth McGowan
+  - Kirsten McKay
+  - Shane McKee
+  - Dominic J. McMullan
+  - Susan McNerlan
+  - Catherine McWilliam
+  - Sarju Mehta
+  - Kay Metcalfe
+  - Anna Middleton
+  - Zosia Miedzybrodzka
+  - Emma Miles
+  - Shehla Mohammed
+  - Tara Montgomery
+  - David Moore
+  - Sian Morgan
+  - Jenny Morton
+  - Hood Mugalaasi
+  - Victoria Murday
+  - Helen Murphy
+  - Swati Naik
+  - Andrea Nemeth
+  - Louise Nevitt
+  - Andrew Norman
+  - "Rosie O\u2019Shea"
+  - Caroline Ogilvie
+  - Kai-Ren Ong
+  - Soo-Mi Park
+  - Michael J. Parker
+  - Chirag Patel
+  - Joan Paterson
+  - Stewart Payne
+  - Daniel Perrett
+  - Julie Phipps
+  - Daniela T. Pilz
+  - Martin Pollard
+  - Caroline Pottinger
+  - Joanna Poulton
+  - Norman Pratt
+  - Katrina Prescott
+  - Abigail Pridham
+  - Annie Procter
+  - Hellen Purnell
+  - Oliver Quarrell
+  - Nicola Ragge
+  - Raheleh Rahbari
+  - Josh Randall
+  - Lucy Raymond
+  - Debbie Rice
+  - Leema Robert
+  - Eileen Roberts
+  - Jonathan Roberts
+  - Paul Roberts
+  - Gillian Roberts
+  - Alison Ross
+  - Elisabeth Rosser
+  - Anand Saggar
+  - Shalaka Samant
+  - Julian Sampson
+  - Richard Sandford
+  - Ajoy Sarkar
+  - Susann Schweiger
+  - Richard Scott
+  - Ingrid Scurr
+  - Ann Selby
+  - Anneke Seller
+  - Cheryl Sequeira
+  - Nora Shannon
+  - Saba Sharif
+  - Charles Shaw-Smith
+  - Emma Shearing
+  - Debbie Shears
+  - Eamonn Sheridan
+  - Ingrid Simonic
+  - Roldan Singzon
+  - Zara Skitt
+  - Audrey Smith
+  - Kath Smith
+  - Sarah Smithson
+  - Linda Sneddon
+  - Miranda Splitt
+  - Miranda Squires
+  - Fiona Stewart
+  - Helen Stewart
+  - Volker Straub
+  - Mohnish Suri
+  - Vivienne Sutton
+  - Ganesh Jawahar Swaminathan
+  - Elizabeth Sweeney
+  - Kate Tatton-Brown
+  - Cat Taylor
+  - Rohan Taylor
+  - Mark Tein
+  - I. Karen Temple
+  - Jenny Thomson
+  - Marc Tischkowitz
+  - Susan Tomkins
+  - Audrey Torokwa
+  - Becky Treacy
+  - Claire Turner
+  - Peter Turnpenny
+  - Carolyn Tysoe
+  - Anthony Vandersteen
+  - Vinod Varghese
+  - Pradeep Vasudevan
+  - Parthiban Vijayarangakannan
+  - Julie Vogt
+  - Emma Wakeling
+  - Sarah Wallwark
+  - Jonathon Waters
+  - Astrid Weber
+  - Diana Wellesley
+  - Margo Whiteford
+  - Sara Widaa
+  - Sarah Wilcox
+  - Emily Wilkinson
+  - Denise Williams
+  - Nicola Williams
+  - Louise Wilson
+  - Geoff Woods
+  - Christopher Wragg
+  - Michael Wright
+  - Laura Yates
+  - Michael Yau
+  - "Chris Nell\xE5ker"
+  - Michael Parker
+  - Helen V. Firth
+  - Caroline F. Wright
+  - David R. FitzPatrick
+  - Jeffrey C. Barrett
+  - Matthew E. Hurles
+  - John D. Roberts
+  - Robert M. Petrovich
+  - Shinichi Machida
+  - Hitoshi Kurumizaka
+  - Stefan Lelieveld
+  - Rolph Pfundt
+  - Sandra Jansen
+  - Pelagia Deriziotis
+  - Laurence Faivre
+  - Julien Thevenon
+  - Mirna Assoum
+  - Lawrence Shriberg
+  - Tjitske Kleefstra
+  - Han G. Brunner
+  - Paul A. Wade
+  - Simon E. Fisher
+  - Philippe M. Campeau
+  publisher: Nature Communications
+  date: '2019-02-15'
+  link: https://doi.org/hb6k5k
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000489313905186
+  title: 'HiVA: a web platform for haplotyping and copy number analysis of single-cell
+    genomes'
+  authors: []
+  publisher: EUROPEAN JOURNAL OF HUMAN GENETICS
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000489313905186
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41593-018-0311-1
+  title: "Loss of function of NCOR1 and NCOR2 impairs memory through a novel GABAergic\
+    \ hypothalamus\u2013CA3 projection"
+  authors:
+  - Wenjun Zhou
+  - Yanlin He
+  - Atteeq U Rehman
+  - Yan Kong
+  - Sungguan Hong
+  - Guolian Ding
+  - Hari Krishna Yalamanchili
+  - Ying-Wooi Wan
+  - Basil Paul
+  - Chuhan Wang
+  - Yingyun Gong
+  - Wenxian Zhou
+  - Hao Liu
+  - John Dean
+  - Emmanuel Scalais
+  - "Mary O\u2019Driscoll"
+  - Jenny E. V Morton
+  - Xinguo Hou
+  - Qi Wu
+  - Qingchun Tong
+  - Zhandong Liu
+  - Pengfei Liu
+  - Yong Xu
+  - Zheng Sun
+  publisher: Nature Neuroscience
+  date: '2019-01-21'
+  link: https://doi.org/gftpc3
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000489313106086
+  title: Single-cell multi-omics sequencing to understand the nature, extent and biology
+    of cellular heterogeneity in breast cancer
+  authors: []
+  publisher: EUROPEAN JOURNAL OF HUMAN GENETICS
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000489313106086
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-018-06014-6
   title: CHD3 helicase domain mutations cause a neurodevelopmental syndrome with macrocephaly
     and impaired speech and language
@@ -2519,6 +4151,58 @@
   publisher: Genetics in Medicine
   date: '2018-10-01'
   link: https://doi.org/gfk3zg
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000489312606192
+  title: Cost effective DNA copy number profiling of singlecells without upfront whole-genome
+    amplification
+  authors: []
+  publisher: EUROPEAN JOURNAL OF HUMAN GENETICS
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000489312606192
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41556-018-0164-6
+  title: 'Publisher Correction: Early lineage segregation of multipotent embryonic
+    mammary gland progenitors'
+  authors:
+  - Aline Wuidart
+  - Alejandro Sifrim
+  - Marco Fioramonti
+  - Shigeru Matsumura
+  - Audrey Brisebarre
+  - Daniel Brown
+  - Alessia Centonze
+  - Anne Dannau
+  - Christine Dubois
+  - Alexandra Van Keymeulen
+  - Thierry Voet
+  - "C\xE9dric Blanpain"
+  publisher: Nature Cell Biology
+  date: '2018-07-17'
+  link: https://doi.org/hb6k5m
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000438519902080
+  title: Haplotyping and copy-number profiling of single cells by massive parallel
+    sequencing
+  authors: []
+  publisher: HUMAN REPRODUCTION
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000438519902080
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000438519900261
+  title: Parallel single-cell genome and transcriptome sequencing to study chromosomal
+    instability during human embryonic preimplantation development
+  authors: []
+  publisher: HUMAN REPRODUCTION
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000438519900261
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
@@ -4092,6 +5776,15 @@
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000345115700015
+  title: Improving Performance of the eXtasy Model by Hierarchical Sampling
+  authors: []
+  publisher: PATTERN RECOGNITION IN BIOINFORMATICS, PRIB 2014
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000345115700015
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/nmeth.2656
   title: 'eXtasy: variant prioritization by genomic data fusion'
   authors:
@@ -4111,6 +5804,15 @@
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000345333000024
+  title: A Genetic Algorithm for Pancreatic Cancer Diagnosis
+  authors: []
+  publisher: ENGINEERING APPLICATIONS OF NEURAL NETWORKS, PT II
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000345333000024
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-642-41016-1_24
   title: A Genetic Algorithm for Pancreatic Cancer Diagnosis
   authors:
@@ -4123,6 +5825,15 @@
   publisher: Communications in Computer and Information Science
   date: '2013-01-01'
   link: https://doi.org/gs8tkd
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000345333000026
+  title: A Hybrid Approach to Feature Ranking for Microarray Data Classification
+  authors: []
+  publisher: ENGINEERING APPLICATIONS OF NEURAL NETWORKS, PT II
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000345333000026
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
@@ -4188,6 +5899,16 @@
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000348252400264
+  title: eXtasy simplified - towards opening the black box
+  authors: []
+  publisher: 2013 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICINE
+    (BIBM)
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000348252400264
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/bibm.2013.6732713
   title: eXtasy simplified-towards opening the black box
   authors:
@@ -4212,6 +5933,15 @@
   publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gs8tkj
+  orcid: 0000-0001-8247-4020
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000334930400020
+  title: A Simple Genetic Algorithm for Biomarker Mining
+  authors: []
+  publisher: PATTERN RECOGNITION IN BIOINFORMATICS
+  date: '2026-05-29'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000334930400020
   orcid: 0000-0001-8247-4020
   plugin: orcid.py
   file: orcid.yaml
