@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-03-27T13:55:27+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">LMIB Team Retreat in Gulpen, Netherlands</title><link href="/2026/03/25/lmib-retreat.html" rel="alternate" type="text/html" title="LMIB Team Retreat in Gulpen, Netherlands" /><published>2026-03-25T00:00:00+00:00</published><updated>2026-03-25T00:00:00+00:00</updated><id>/2026/03/25/lmib-retreat</id><content type="html" xml:base="/2026/03/25/lmib-retreat.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-06-04T13:54:03+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">LMIB is heading to the Helmholtz AI for Science Conference in Munich!</title><link href="/2026/06/04/haicon26.html" rel="alternate" type="text/html" title="LMIB is heading to the Helmholtz AI for Science Conference in Munich!" /><published>2026-06-04T00:00:00+00:00</published><updated>2026-06-04T00:00:00+00:00</updated><id>/2026/06/04/haicon26</id><content type="html" xml:base="/2026/06/04/haicon26.html"><![CDATA[<!-- excerpt start -->
+<!-- excerpt end -->
+
+<p>We are excited to share that our colleagues Anis Ismail (PhD Student) and Saptarshi Chakrabarti (Data Engineer) will be representing the lab and presenting projects from our line of work that they have been helping advance.</p>
+
+<p>Reproducible Multi-omic Benchmarking with Multiverse (June 8, 9am to 11am, Helmholtz Munich Campus)</p>
+
+<p>Anis and Rishi will lead a workshop introducing best practices for benchmarking multi-omic integration methods using Multiverse, our new framework for reproducible benchmarking. The workshop will demonstrate how containerized components enable transparent, reproducible, and extensible computational experiments.</p>
+
+<p>Interpreting Multi-Omic Integration Models with Feature Attribution Methods (June 9, 2:48pm - 3:02pm, Munich House of Communication)</p>
+
+<p>Anis will present part of his PhD research on using feature attribution methods, including DeepLIFTSHAP, to investigate the inner workings of multi-omic integration models. Using MIMA and the prostate cancer dataset from our recent work as a case study, he will showcase a framework for uncovering the biological signals learned by these models and identifying molecular features across modalities that may contribute to prostate cancer biology.</p>
+
+<p>Good luck to Anis and Saptarshi!</p>
+
+<p>If you are attending the conference, feel free to connect with them to discuss their work, exchange ideas, and explore potential collaborations.
+Stay tuned for the preprints showcasing these works.</p>
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/news/HAICON26.png" style="
+        width: 75%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>]]></content><author><name></name></author><category term="conference" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LMIB Team Retreat in Gulpen, Netherlands</title><link href="/2026/03/25/lmib-retreat.html" rel="alternate" type="text/html" title="LMIB Team Retreat in Gulpen, Netherlands" /><published>2026-03-25T00:00:00+00:00</published><updated>2026-03-25T00:00:00+00:00</updated><id>/2026/03/25/lmib-retreat</id><content type="html" xml:base="/2026/03/25/lmib-retreat.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 <p>This week, the LMIB team held its annual lab retreat in Gulpen, nestled in the beautiful Limburg countryside, an ideal setting to rest, recharge, reflect on the past year, and plan our next steps as a lab.
 During the retreat, we explored Maastricht and its rich history, put our teamwork to the test in an escape room, and took part in workshops on collaboration, communication, and the effective use of AI tools.</p>
@@ -206,85 +231,4 @@ We presented our attempt at adding to the rich contributions of the Belgian Rese
 
 <p>The ability to detect and respond to ingested nutrients is vital for survival, yet the precise neuronal sensory pathways within the enteric nervous system (ENS) remain incompletely understood. In a recent collaborative study published in <a href="https://www.nature.com/articles/s41586-025-09228-z">Nature</a>, researchers used calcium imaging in mouse jejunum to reveal that different nutrients activate distinct neurochemically defined ensembles of myenteric and submucosal neurons. These nutrient signals are detected indirectly—through the intestinal epithelium—primarily via serotonin signalling, and show a spatial transmission pattern along the radial axis of the intestine.</p>
 
-<p>Ceyhun Alar from our lab contributed single-cell data analysis, decoding complex neuronal activation patterns within these datasets and strengthening the connection between biological signal and scientific insight.</p>]]></content><author><name></name></author><category term="paper" /><category term="research" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LMIBeaches Win Third Place in VIB Beach Volley Tournament!</title><link href="/2025/07/01/beachvolleyball.html" rel="alternate" type="text/html" title="LMIBeaches Win Third Place in VIB Beach Volley Tournament!" /><published>2025-07-01T00:00:00+00:00</published><updated>2025-07-01T00:00:00+00:00</updated><id>/2025/07/01/beachvolleyball</id><content type="html" xml:base="/2025/07/01/beachvolleyball.html"><![CDATA[<!-- excerpt start -->
-<!-- excerpt end -->
-<p>From code to court, the LMIBeaches proved that the LMIB can bring the heat. With sharp plays and even sharper focus, our team secured a solid third place in the VIB Beach Volley Tournament. Congratulations to the squad for showing that LMIBeaches can dominate the sand, too!</p>
-
-<style>
-  .image-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-  }
-
-  .img-1 {
-    flex: 1 1 50%;
-    max-width: 50%;
-    height: 400px;
-    overflow: hidden;
-  }
-
-  .img-2 {
-    flex: 1 1 40%;
-    max-width: 40%;
-    height: 400px;
-    overflow: hidden;
-  }
-
-  .img-3 {
-    flex: 1 1 90%;
-    max-width: 90%;
-    height: 500px;
-    overflow: hidden;
-  }
-
-  .image-grid img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
-
-  @media (max-width: 768px) {
-    .img-1,
-    .img-2,
-    .img-3 {
-      flex: 1 1 100%;
-      max-width: 100%;
-      height: auto;
-    }
-  }
-</style>
-
-<div class="image-grid">
-  <div class="img-1">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/LMIBeaches-2025.jpg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-
-  <div class="img-2">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/LMIBeaches-2025-2.JPG" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-
-  <div class="img-3">
-    <img src="/images/news/LMIBeaches-2025-3.jpg" alt="LMI Beach Event 2025" />
-  </div>
-</div>]]></content><author><name></name></author><category term="awards" /><category term="team" /><summary type="html"><![CDATA[From code to court, the LMIBeaches proved that the LMIB can bring the heat. With sharp plays and even sharper focus, our team secured a solid third place in the VIB Beach Volley Tournament. Congratulations to the squad for showing that LMIBeaches can dominate the sand, too!]]></summary></entry></feed>
+<p>Ceyhun Alar from our lab contributed single-cell data analysis, decoding complex neuronal activation patterns within these datasets and strengthening the connection between biological signal and scientific insight.</p>]]></content><author><name></name></author><category term="paper" /><category term="research" /><summary type="html"><![CDATA[]]></summary></entry></feed>
