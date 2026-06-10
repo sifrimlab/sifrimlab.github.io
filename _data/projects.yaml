@@ -1,47 +1,29 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Multiverse
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/multiverse.png
+  link: https://github.com/sifrimlab/multiverse
+  description: Multiverse is a reproducible benchmarking tool for multimodal single-cell integration, without making bioinformaticians become infrastructure engineers.
   tags:
     - software
+    - multi-omics
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: MIMA
+  group: featured
+  image: images/projects/mima.png
+  link: https://github.com/sifrimlab/mima
+  description: MIMA is a Multimodal Variational Autoencoder designed for the integration of heterogeneous molecular layers, enabling a comprehensive multimodal representation of the cellular state.
   tags:
     - software
+    - single-cell
+
+- title: Subcellspace
+  group: featured
+  image: images/projects/subcellspace.png
+  link: https://github.com/sifrimlab/subcellspace
+  description: Subcellspace integrates subcellular resolution transcriptomics with conventional
+    microscopy to map RNA localisation within individual cells. It leverages deep
+    neural network architectures to fuse morphological and molecular information at
+    unprecedented resolution.
+  tags:
+    - software
+    - spatial-omics

@@ -7,27 +7,59 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-## Spatial multi-omics
-A human body comprises approximately 100 trillion cells. As most of our organ functions are executed by the concerted action of those individual cells in a spatially organised context, it is paramount to research these individual cells in their native spatial context. This is not only important to understand normal organ development and function, but also to investigate how cells are perturbed in diseased conditions. Technological developments in the last few years allow us to assay the expression of hundreds to thousands of genes at single-cell resolution while retaining the complete morphological and spatial information.
+We develop machine learning and statistical methods to make sense of complex, multi-modal biological data.
+Our work spans tool development, disease modelling, and collaborative data analysis, always with a focus on reproducibility and biological interpretability.
 
-At LMIB, we are at the fore-front of the development of these technologies by working together with technologists and biologists, as part of the Leuven Single-Cell Institute, to create the next generation of spatial multi-omic technologies. We aim to develop novel data fusion strategies which integrate information gained from conventional microscopy with sub-cellular resolution multi-omics information by leveraging state-of-the-art deep neural network architectures.  
+{% include section.html %}
+
+## Multi-omic Integration
+
+Modern biology generates data across many molecular layers: genome, transcriptome, proteome, and more.
+We build computational methods that jointly analyse these heterogeneous datasets to reveal biological patterns invisible in any single modality.
+Our recent tool [Multiverse](https://github.com/sifrimlab/multiverse) provides a reproducible benchmarking framework for multimodal single-cell integration, and [MIMA](https://github.com/sifrimlab/mima) is a multimodal variational autoencoder for learning unified cellular representations.
 
 {% include section.html dark=true %}
 
-## Variant Prioritization 
-Genome sequencing studies reveal thousands to millions of genetic variants in any typical individual. These genetic variants are often benign, but a small subset can give rise to disease. However, the fundamental challenge of distinguishing between neutral and pathogenic variants is often non-trivial, and follow-up investigation of variants is often time and cost-prohibitive. Therefore, variant prioritization tools are needed which rank the most likely candidates based on available information on the nature of the respective variants, the genes wherein they reside, the tissues wherein these genes are expressed and the patient’s phenotypic presentation.
+## DeepHeart - Variant Prioritization for Congenital Heart Disease
 
-At LMIB we aim to develop variant prioritization tools leveraging the latest publicly available data and state-of-the-art machine learning algorithms and apply these tools in large-scale genetic studies in order to further understand the genetic etiology of human diseases and to provide improved genetic diagnostic outputs for patients.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="A multi-omics genome-and-transcriptome single-cell atlas of human preimplantation embryogenesis reveals the cellular and molecular impact of chromosome instability" style="rich" %}
+Genome sequencing produces millions of variants per individual, the vast majority of which are benign.
+Identifying the small subset responsible for disease is a critical bottleneck in clinical genetics.
+As part of the **DeepHeart** project, we are developping deep learning models that integrate variant features, gene expression, and patient phenotypes to prioritize candidate variants in congenital heart disease, improving diagnostic yield for patients.
 
 {% include section.html %}
 
-## All
+## Explainable AI for Multi-omic Representation Learning
+
+Building accurate models is not enough; we need to understand what they learn.
+We are developping explainability methods tailored to multi-omic settings, enabling researchers to trace model predictions back to interpretable biological features such as gene programmes, regulatory elements, and cell states.
+This work bridges the gap between black-box deep learning and actionable biological insight.
+
+{% include section.html dark=true %}
+
+## RNA Subcellular Organization
+
+Where an RNA molecule sits inside a cell is not random, subcellular localisation is tightly regulated and functionally important.
+We develop deep learning models that map RNA localisation at subcellular resolution by fusing transcriptomic readouts with high-content microscopy images.
+Our tool [Subcellspace](https://github.com/sifrimlab/subcellspace) provides an end-to-end pipeline for this analysis.
+
+{% include section.html %}
+
+## Collaborative Bioinformatics within LISCO
+
+As members of the [Leuven Single-Cell Institute (LISCO)](https://lisco.kuleuven.be), we work closely with experimental groups to help them get the most from their single-cell and spatial data.
+A key focus is end-to-end analysis pipelines for marker gene identification, from raw count matrices to biologically validated cell-type signatures.
+These collaborations drive new methodological questions and ensure our tools are tested on real and diverse datasets.
+
+{% include section.html %}
+
+## Highlighted Publications
+
+{% include citation.html lookup="doi:10.1101/2025.10.21.683449" style="rich" %}
+{% include citation.html lookup="doi:10.64898/2026.04.28.720613" style="rich" %}
+
+{% include section.html %}
+
+## All Publications
 
 {% include search-box.html %}
 
