@@ -19,8 +19,11 @@
 
 .card-image img {
   aspect-ratio: 3/2;
-  object-fit: cover;
+  object-fit: contain;
   width: 100%;
+  background: var(--background-alt, #f5f5f5);
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 .card-text {
