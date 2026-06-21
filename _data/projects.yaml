@@ -1,7 +1,7 @@
 - title: Multiverse
   group: featured
   image: images/projects/multiverse.png
-  link: https://github.com/sifrimlab/multiverse
+  link: https://sifrimlab.org/multiverse/
   description: Multiverse is a reproducible benchmarking tool for multimodal single-cell integration, without making bioinformaticians become infrastructure engineers.
   tags:
     - software
