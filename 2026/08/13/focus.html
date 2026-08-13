@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Projects | Laboratory of Multi-omic Integrative Bioinformatics</title>
+<title>Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics. | Laboratory of Multi-omic Integrative Bioinformatics</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Projects">
+<meta name="title" content="Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics.">
 <meta name="description" content="Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)">
 
-<meta property="og:title" content="Projects">
+<meta property="og:title" content="Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics.">
 <meta property="og:site_title" content="Laboratory of Multi-omic Integrative Bioinformatics">
 <meta property="og:description" content="Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)">
 <meta property="og:url" content="">
 <meta property="og:image" content="/images/share.png">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Projects">
+<meta property="twitter:title" content="Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics.">
 <meta property="twitter:description" content="Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Projects",
+    "name": "Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics.",
     "description": "Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)",
-    "headline": "Projects",
+    "headline": "Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics.",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -278,58 +278,6 @@
     <link href="/_styles/util.css" rel="stylesheet">
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 
 <!-- include all css in styles folder -->
 
@@ -451,11 +399,35 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="projects">
-<i class="icon fa-solid fa-wrench"></i>Projects</h1>
+    <h1 class="center">Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics.</h1>
 
-<p>We develop open-source computational tools and resources to advance multi-omics biology and medicine.
-All of our software is freely available on <a href="https://github.com/sifrimlab">GitHub</a>.</p>
+<div class="post-info">
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>August 13, 2026</span>
+    </span>
+  
+
+  
+</div>
+
+
+  
+
+
+  <div class="tags" data-link="/blog">
+    
+      <a href="/blog?search=%22tag:%20paper%22" class="tag" data-tooltip='Show items with the tag "paper"'>
+        paper
+      </a>
+    
+  </div>
   </section>
 
   
@@ -469,150 +441,29 @@ All of our software is freely available on <a href="https://github.com/sifrimlab
   size: ;
 -->
 
-<h2 id="featured">Featured</h2>
 
-<div class="card" data-style="">
-  <a href="https://sifrimlab.org/FOCUS/" aria-label="FOCUS" class="card-image">
-    <img src="/images/projects/focus.png" alt="FOCUS" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+<!-- excerpt start -->
+<!-- excerpt end -->
+
+<p>We are excited to share our colleague Lorenzo’s latest preprint: <strong>FOCUS, an end-to-end Python Framework for preprocessing, alignment, and resolution-matched integration of spatial multi-omics data</strong>.</p>
+
+<p>Spatial assays profile the same tissue across complementary molecular layers, but joining them requires every observation to sit on a common spatial index, and the assays differ in file format, coordinate system, spatial resolution, and preprocessing convention. Reconciling these differences by hand is the step that stands between a set of experimental acquisitions and an analysis-ready dataset. FOCUS is designed for exactly that step: it returns molecular layers already preprocessed, aligned and resolution-matched on a shared observation grid, ready both for standard downstream analysis and for the growing number of published AI-based multimodal integration frameworks with minimal manual data preparation.
+FOCUS covers the full path from experimental files to an analysis-ready object, supporting spatial transcriptomics, mass spectrometry imaging, Raman spectroscopy imaging and brightfield or fluorescence microscopy.</p>
+
+<p>It aligns modality pairs that share no identifiable landmarks through an interactive browser-based interface that keeps the alignment step tractable for cross-technology and serial-section data.
+It resolves the resolution mismatch between assays, mapping every target modality and pathologist-drawn region annotations onto a shared observation grid.
+It returns a single scverse-compatible MuData object from a command-line interface, a browser GUI, or a Python API, and extends to further modalities and registration methods through a registry-based architecture.</p>
+
+<p>The <a href="https://www.biorxiv.org/content/10.64898/2026.08.04.742705v1">preprint</a> and <a href="https://github.com/sifrimlab/FOCUS/">code</a> are openly available.</p>
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/news/focus.jpeg" style="
+        width: 75%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
-
-  <div class="card-text">
-    
-      <a href="https://sifrimlab.org/FOCUS/" class="card-title">
-        FOCUS
-    </a>
-    
-
-    
-
-    
-      <p>FOCUS is an end-to-end Python Framework for preprocessing, alignment, and resolution-matched integration of spatial multi-omics data - software - multi-omics</p>
-
-    
-
-    
-  </div>
-</div>
-
-<div class="card" data-style="">
-  <a href="https://sifrimlab.org/multiverse/" aria-label="Multiverse" class="card-image">
-    <img src="/images/projects/multiverse.png" alt="Multiverse" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-
-  <div class="card-text">
-    
-      <a href="https://sifrimlab.org/multiverse/" class="card-title">
-        Multiverse
-    </a>
-    
-
-    
-
-    
-      <p>Multiverse is a reproducible benchmarking tool for multimodal single-cell integration, without making bioinformaticians become infrastructure engineers.</p>
-
-    
-
-    
-      
-
-
-  <div class="tags" data-link="/projects/">
-    
-      <a href="/projects/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
-        software
-      </a>
-    
-      <a href="/projects/?search=%22tag:%20multi-omics%22" class="tag" data-tooltip='Show items with the tag "multi-omics"'>
-        multi-omics
-      </a>
-    
-  </div>
-
-
-    
-  </div>
-</div>
-
-<div class="card" data-style="">
-  <a href="https://github.com/sifrimlab/mima" aria-label="MIMA" class="card-image">
-    <img src="/images/projects/mima.png" alt="MIMA" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-
-  <div class="card-text">
-    
-      <a href="https://github.com/sifrimlab/mima" class="card-title">
-        MIMA
-    </a>
-    
-
-    
-
-    
-      <p>MIMA is a Multimodal Variational Autoencoder designed for the integration of heterogeneous molecular layers, enabling a comprehensive multimodal representation of the cellular state.</p>
-
-    
-
-    
-      
-
-
-  <div class="tags" data-link="/projects/">
-    
-      <a href="/projects/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
-        software
-      </a>
-    
-      <a href="/projects/?search=%22tag:%20single-cell%22" class="tag" data-tooltip='Show items with the tag "single-cell"'>
-        single-cell
-      </a>
-    
-  </div>
-
-
-    
-  </div>
-</div>
-
-<div class="card" data-style="">
-  <a href="https://github.com/sifrimlab/subcellspace" aria-label="Subcellspace" class="card-image">
-    <img src="/images/projects/subcellspace.png" alt="Subcellspace" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-
-  <div class="card-text">
-    
-      <a href="https://github.com/sifrimlab/subcellspace" class="card-title">
-        Subcellspace
-    </a>
-    
-
-    
-
-    
-      <p>Subcellspace integrates subcellular resolution transcriptomics with conventional microscopy to map RNA localisation within individual cells. It leverages deep neural network architectures to fuse morphological and molecular information at unprecedented resolution.</p>
-
-    
-
-    
-      
-
-
-  <div class="tags" data-link="/projects/">
-    
-      <a href="/projects/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
-        software
-      </a>
-    
-      <a href="/projects/?search=%22tag:%20spatial-omics%22" class="tag" data-tooltip='Show items with the tag "spatial-omics"'>
-        spatial-omics
-      </a>
-    
-  </div>
-
-
-    
-  </div>
-</div>
+  
+</figure>
   </section>
 
   
@@ -626,149 +477,19 @@ All of our software is freely available on <a href="https://github.com/sifrimlab
   size: ;
 -->
 
-<h2 id="all-projects">All Projects</h2>
 
-<div class="card" data-style="">
-  <a href="https://sifrimlab.org/FOCUS/" aria-label="FOCUS" class="card-image">
-    <img src="/images/projects/focus.png" alt="FOCUS" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-
-  <div class="card-text">
+<div class="post-nav">
+  <span>
     
-      <a href="https://sifrimlab.org/FOCUS/" class="card-title">
-        FOCUS
-    </a>
-    
-
-    
-
-    
-      <p>FOCUS is an end-to-end Python Framework for preprocessing, alignment, and resolution-matched integration of spatial multi-omics data - software - multi-omics</p>
-
-    
-
-    
-  </div>
-</div>
-
-<div class="card" data-style="">
-  <a href="https://sifrimlab.org/multiverse/" aria-label="Multiverse" class="card-image">
-    <img src="/images/projects/multiverse.png" alt="Multiverse" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-
-  <div class="card-text">
-    
-      <a href="https://sifrimlab.org/multiverse/" class="card-title">
-        Multiverse
-    </a>
-    
-
-    
-
-    
-      <p>Multiverse is a reproducible benchmarking tool for multimodal single-cell integration, without making bioinformaticians become infrastructure engineers.</p>
-
-    
-
-    
-      
-
-
-  <div class="tags" data-link="/projects/">
-    
-      <a href="/projects/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
-        software
+      <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
+      <a href="/2026/06/04/subcellspace.html">
+        Introducing SubCellSpace, a framework for modeling subcellular mRNA localization patterns in spatial transcriptomics.
       </a>
     
-      <a href="/projects/?search=%22tag:%20multi-omics%22" class="tag" data-tooltip='Show items with the tag "multi-omics"'>
-        multi-omics
-      </a>
+  </span>
+  <span>
     
-  </div>
-
-
-    
-  </div>
-</div>
-
-<div class="card" data-style="">
-  <a href="https://github.com/sifrimlab/mima" aria-label="MIMA" class="card-image">
-    <img src="/images/projects/mima.png" alt="MIMA" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-
-  <div class="card-text">
-    
-      <a href="https://github.com/sifrimlab/mima" class="card-title">
-        MIMA
-    </a>
-    
-
-    
-
-    
-      <p>MIMA is a Multimodal Variational Autoencoder designed for the integration of heterogeneous molecular layers, enabling a comprehensive multimodal representation of the cellular state.</p>
-
-    
-
-    
-      
-
-
-  <div class="tags" data-link="/projects/">
-    
-      <a href="/projects/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
-        software
-      </a>
-    
-      <a href="/projects/?search=%22tag:%20single-cell%22" class="tag" data-tooltip='Show items with the tag "single-cell"'>
-        single-cell
-      </a>
-    
-  </div>
-
-
-    
-  </div>
-</div>
-
-<div class="card" data-style="">
-  <a href="https://github.com/sifrimlab/subcellspace" aria-label="Subcellspace" class="card-image">
-    <img src="/images/projects/subcellspace.png" alt="Subcellspace" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-
-  <div class="card-text">
-    
-      <a href="https://github.com/sifrimlab/subcellspace" class="card-title">
-        Subcellspace
-    </a>
-    
-
-    
-
-    
-      <p>Subcellspace integrates subcellular resolution transcriptomics with conventional microscopy to map RNA localisation within individual cells. It leverages deep neural network architectures to fuse morphological and molecular information at unprecedented resolution.</p>
-
-    
-
-    
-      
-
-
-  <div class="tags" data-link="/projects/">
-    
-      <a href="/projects/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
-        software
-      </a>
-    
-      <a href="/projects/?search=%22tag:%20spatial-omics%22" class="tag" data-tooltip='Show items with the tag "spatial-omics"'>
-        spatial-omics
-      </a>
-    
-  </div>
-
-
-    
-  </div>
+  </span>
 </div>
   </section>
 
