@@ -1,3 +1,10 @@
+- title: FOCUS
+  group: featured
+  image: images/projects/focus.png
+  link: https://sifrimlab.org/FOCUS/
+  description: FOCUS is an end-to-end Python Framework for preprocessing, alignment, and resolution-matched integration of spatial multi-omics data
+    - software
+    - multi-omics
 - title: Multiverse
   group: featured
   image: images/projects/multiverse.png
