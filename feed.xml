@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-09-18T12:17:08+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">LMIB hosts the Interuniversity Cardio Genetics Conference 2026</title><link href="/2026/09/18/deepheart.html" rel="alternate" type="text/html" title="LMIB hosts the Interuniversity Cardio Genetics Conference 2026" /><published>2026-09-18T00:00:00+00:00</published><updated>2026-09-18T00:00:00+00:00</updated><id>/2026/09/18/deepheart</id><content type="html" xml:base="/2026/09/18/deepheart.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-09-18T14:29:08+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">LMIB hosts the Interuniversity Cardio Genetics Conference 2026</title><link href="/2026/09/18/deepheart.html" rel="alternate" type="text/html" title="LMIB hosts the Interuniversity Cardio Genetics Conference 2026" /><published>2026-09-18T00:00:00+00:00</published><updated>2026-09-18T00:00:00+00:00</updated><id>/2026/09/18/deepheart</id><content type="html" xml:base="/2026/09/18/deepheart.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 
 <p>On Friday, 23 October 2026, the Interuniversity Cardio Genetics Conference will bring together researchers, clinicians, and experts in cardiovascular genetics for a one-day scientific meeting in Leuven, Belgium, hosted at O&amp;N5 Gasthuisberg.
@@ -44,7 +44,7 @@ More information can be found <a href="https://cardiogeneticsleuven2026.github.i
     <p><a href="https://www.biorxiv.org/content/10.64898/2026.08.12.744385v1">Preprint</a></p>
   </li>
   <li>
-    <p>[Interactive data browser]https://sifrimlab.org/LipoGrid/)</p>
+    <p><a href="https://sifrimlab.org/LipoGrid/">Interactive data browser</a></p>
   </li>
 </ul>
 
