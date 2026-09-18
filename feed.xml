@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-08-16T20:20:35+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">Introducing FOCUS, a framework for preprocessing, alignment, and integration of spatial multi-omics data.</title><link href="/2026/08/13/focus.html" rel="alternate" type="text/html" title="Introducing FOCUS, a framework for preprocessing, alignment, and integration of spatial multi-omics data." /><published>2026-08-13T00:00:00+00:00</published><updated>2026-08-13T00:00:00+00:00</updated><id>/2026/08/13/focus</id><content type="html" xml:base="/2026/08/13/focus.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-09-18T12:13:33+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">LMIB hosts the Interuniversity Cardio Genetics Conference 2026</title><link href="/2026/09/18/deepheart.html" rel="alternate" type="text/html" title="LMIB hosts the Interuniversity Cardio Genetics Conference 2026" /><published>2026-09-18T00:00:00+00:00</published><updated>2026-09-18T00:00:00+00:00</updated><id>/2026/09/18/deepheart</id><content type="html" xml:base="/2026/09/18/deepheart.html"><![CDATA[<!-- excerpt start -->
+<!-- excerpt end -->
+
+<p>On Friday, 23 October 2026, the Interuniversity Cardio Genetics Conference will bring together researchers, clinicians, and experts in cardiovascular genetics for a one-day scientific meeting in Leuven, Belgium, hosted at O&amp;N5 Gasthuisberg.
+The programme is organised around three complementary perspectives: clinical genetics and cardiology, genetic research, and model systems and development. Confirmed speakers include Prof. Dr. Julie De Backer (Ghent University Hospital &amp; Ghent University), Prof. Dr. Lars Allan Larsen (University of Copenhagen), and Dr. Sonia Stefanovic (Aix-Marseille University), alongside short talks and a poster session from early-career researchers.
+The day offers a chance to exchange knowledge, discuss current developments in cardiogenetics, and connect researchers and clinicians across universities and institutions, closing with a networking session.
+<strong>Registration is open via an online form, with a deadline of 12 October 2026.</strong>
+More information can be found <a href="https://cardiogeneticsleuven2026.github.io/">here</a></p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/news/ICGC_2026.png" style="
+        width: 75%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Introducing LipoGrid, a high-throughput multi-omics perturbation screen to dissect the genetic architecture of lipid metabolism.</title><link href="/2026/09/18/lipogrid.html" rel="alternate" type="text/html" title="Introducing LipoGrid, a high-throughput multi-omics perturbation screen to dissect the genetic architecture of lipid metabolism." /><published>2026-09-18T00:00:00+00:00</published><updated>2026-09-18T00:00:00+00:00</updated><id>/2026/09/18/lipogrid</id><content type="html" xml:base="/2026/09/18/lipogrid.html"><![CDATA[<!-- excerpt start -->
+<!-- excerpt end -->
+
+<p>Excited to share the latest preprint led by our colleague Jelle: LipoGrid, a high-throughput multi-omics perturbation screen dissects the genetic architecture of lipid metabolism.</p>
+
+<p>Lipids are extraordinarily diverse and central to cellular function, yet we still have a limited understanding of the genetic mechanisms that shape the cellular lipidome. A major challenge has been the lack of scalable approaches that can connect defined genetic perturbations to changes in lipid composition. LipoGrid addresses this gap.</p>
+
+<p>LipoGrid combines CRISPR perturbations in micropatterned cells with spatial mass spectrometry and downstream gRNA identification. This allows us to systematically connect gene perturbations to changes in specific lipid species, which we further integrate with transcriptomic profiles from matched perturbations.</p>
+
+<p>In our first screen, we mapped 143 gene knockouts to 158 lipid species, revealing:</p>
+
+<ul>
+  <li>Widespread but highly specific remodeling of the lipidome following gene perturbation</li>
+  <li>Enzyme-substrate specificities and disease-associated lipid signatures</li>
+  <li>Compensatory feedback mechanisms that buffer changes in lipid metabolism</li>
+  <li>Lipid-class-specific uptake and remodeling</li>
+</ul>
+
+<p>Together, these results show that spatial single-cell lipidomics, combined with transcriptomics, can systematically uncover the genetic architecture of lipid homeostasis.</p>
+
+<p>We hope LipoGrid will provide a foundation for exploring how genetic perturbations reshape the lipidome and for connecting lipid metabolism more directly to disease mechanisms.</p>
+
+<p>If you are interested in lipid metabolism, functional genomics or spatial omics, we would be very happy for you to explore the preprint and interactive browser:</p>
+
+<ul>
+  <li>
+    <p><a href="https://lnkd.in/eKXxrXkz">Preprint</a></p>
+  </li>
+  <li>
+    <p><a href="https://lnkd.in/ej25YmGy">Interactive data browser</a></p>
+  </li>
+</ul>
+
+<p>This was a true collaborative effort of 5 KU Leuven teams from LISCO-Biomed, Thierry Voet, Jeroen Lammertyn, Johan(nes) Swinnen, Bernard Thienpont and Alejandro Sifrim. Led by Jelle Jacobs with essential expertise provided by, co-first author Paulien Van Minsel, Nina Ravoet, Emiel De Rieck, Niels Vandermeulen, Lorenzo Venturelli, Katy Vandereyken, Karen Ven, Jolien Breukers and David Wouters.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/news/lipogrid.jpg" style="
+        width: 75%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>]]></content><author><name></name></author><category term="paper" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">New PhD position open on AI-driven multimodal data fusion models in rare diseases</title><link href="/2026/09/18/new-phd-alert.html" rel="alternate" type="text/html" title="New PhD position open on AI-driven multimodal data fusion models in rare diseases" /><published>2026-09-18T00:00:00+00:00</published><updated>2026-09-18T00:00:00+00:00</updated><id>/2026/09/18/new-phd-alert</id><content type="html" xml:base="/2026/09/18/new-phd-alert.html"><![CDATA[<!-- excerpt start -->
+<!-- excerpt end -->
+<p>Come join our team! PhD position open as part of an international Marie Skłodowska-Curie Doctoral Network SPACE-MEL (101311007).</p>
+
+<p>The problem is to train meaningful predictive models that can work in scenarios where training data is limited (as is by definition the case in rare disease). We have some ideas on how to do this, we need someone to help us out. If you’re up for a challenge, don’t hesitate to apply.</p>
+
+<h2 id="project-description">Project Description</h2>
+<p>The candidate will develop and benchmark zero-shot multimodal fusion models for rare disease prediction, using melanoma as a use case. The project integrates spatial and single-cell multi-omics data with histopathology and clinical information to learn robust cross-modal representations for diagnostic prediction. It pursues two integrated objectives: (i) to develop generative and explainable AI approaches for multimodal data fusion; and (ii) to extend existing multimodal frameworks with additional omics layers and evaluate their performance across heterogeneous datasets. At KU Leuven, the candidate will develop machine-learning strategies for multimodal representation learning and for the integration of the complex biological datasets generated within the consortium.</p>
+
+<h2 id="required-skills">Required Skills</h2>
+<ul>
+  <li>Strong programming skills in Python, and experience with at least one deep-learning framework (PyTorch preferred).</li>
+  <li>A solid grounding in machine learning. Experience with representation learning, generative models, foundation models or multimodal integration is a strong asset.</li>
+  <li>Experience in the analysis of high-dimensional biological data (single-cell or spatial transcriptomics, digital pathology or biomedical imaging) is an advantage.</li>
+  <li>Comfortable working on Linux and HPC/GPU systems, with version control (git) and reproducible workflows (conda or containers, Snakemake or Nextflow).</li>
+  <li>Able to work independently as well as within an interdisciplinary, international consortium.</li>
+  <li>Proficiency in the English language is required, as well as good communication skills, both oral and written.</li>
+</ul>]]></content><author><name></name></author><category term="job" /><summary type="html"><![CDATA[Come join our team! PhD position open as part of an international Marie Skłodowska-Curie Doctoral Network SPACE-MEL (101311007).]]></summary></entry><entry><title type="html">Introducing FOCUS, a framework for preprocessing, alignment, and integration of spatial multi-omics data.</title><link href="/2026/08/13/focus.html" rel="alternate" type="text/html" title="Introducing FOCUS, a framework for preprocessing, alignment, and integration of spatial multi-omics data." /><published>2026-08-13T00:00:00+00:00</published><updated>2026-08-13T00:00:00+00:00</updated><id>/2026/08/13/focus</id><content type="html" xml:base="/2026/08/13/focus.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 
 <p>We are excited to share our colleague Lorenzo’s latest preprint: <strong>FOCUS, an end-to-end Python Framework for preprocessing, alignment, and resolution-matched integration of spatial multi-omics data</strong>.</p>
@@ -175,78 +252,4 @@ We presented our attempt at adding to the rich contributions of the Belgian Rese
   <div class="img-3">
     <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025" style="width: 100%; object-fit: cover;" />
   </div>
-</div>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Congrats Marios for Receiving an FWO PhD Fellowship!</title><link href="/2025/10/01/marios-fwo2025.html" rel="alternate" type="text/html" title="Congrats Marios for Receiving an FWO PhD Fellowship!" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/marios-fwo2025</id><content type="html" xml:base="/2025/10/01/marios-fwo2025.html"><![CDATA[<!-- excerpt start -->
-<!-- excerpt end -->
-<p>We are thrilled to share that our colleague Marios has been awarded a PhD fellowship from the Research Foundation Flanders (FWO)!</p>
-
-<p>This fellowship will support his doctoral research in our lab, where he will focus on leveraging multi-omic long-read sequencing data and deep learning to unravel the genetic dysregulation underlying complex sarcomas.</p>
-
-<p>A huge congratulations to Marios for this outstanding achievement, we’re proud and excited to see his research take off!</p>]]></content><author><name></name></author><category term="awards" /><category term="LISCO" /><summary type="html"><![CDATA[We are thrilled to share that our colleague Marios has been awarded a PhD fellowship from the Research Foundation Flanders (FWO)!]]></summary></entry><entry><title type="html">LMIB at SCSO 2025 - Showcasing Innovation in Spatial and Multi-Omics Research</title><link href="/2025/10/01/scso.html" rel="alternate" type="text/html" title="LMIB at SCSO 2025 - Showcasing Innovation in Spatial and Multi-Omics Research" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/scso</id><content type="html" xml:base="/2025/10/01/scso.html"><![CDATA[<!-- excerpt start -->
-<!-- excerpt end -->
-
-<p>We’re pleased to share that our lab contributed to the <a href="https://scsomics2025.com/">SCSO 2025 conference</a> in Leuven, where our colleagues Ceyhun, David, Maria and Jelle presented our findings through their respective posters on:</p>
-
-<ul>
-  <li>Data-driven experimental design and analysis for targeted spatial transcriptomics</li>
-  <li>Automated characterisation of subcellular mRNA localization patterns using spatial transcriptomics and deep neural networks</li>
-  <li>Integrative transcriptomics reveals dynamic shifts in oligodendrocyte and OPC activation states in ALS</li>
-  <li>LipoGrid: A multi-omics platform for the systematic dissection of lipid metabolism via genetic perturbations</li>
-</ul>
-
-<p>Additionally, Nacho gave a talk titled “An AI-based approach to better understand the interplay between different spatial omics layers.”</p>
-
-<p>Many thanks to all collaborators and LISCO - KU Leuven Institute for Single Cell Omics!</p>
-
-<style>
-.image-grid {
-  display: grid;
-  grid-template-columns: 50% 50%;
-  gap: 0; /* adjust if you want spacing */
-  width: 100%;
-}
-
-.image-grid .img-1,
-.image-grid .img-2 {
-  height: 300px; /* adjust as needed */
-  overflow: hidden;
-}
-
-.image-grid .img-3 {
-  grid-column: 1 / span 2; /* make it full width below */
-  margin-top: 10px;
-}
-</style>
-
-<div class="image-grid">
-  <div class="img-1">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/SCSO-1.jpg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-
-  <div class="img-2">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/SCSO-2.jpg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-
-  <div class="img-3">
-    <img src="/images/news/SCSO-3.jpg" alt="scso2025" style="width: 100%; object-fit: cover;" />
-  </div>
-</div>]]></content><author><name></name></author><category term="conference" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Welcome to the team Joran and Mora!</title><link href="/2025/10/01/welcome-fall2025.html" rel="alternate" type="text/html" title="Welcome to the team Joran and Mora!" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/welcome-fall2025</id><content type="html" xml:base="/2025/10/01/welcome-fall2025.html"><![CDATA[<!-- excerpt start -->
-<p>Welcoming our Newest Post doctoral Researcher Joran, and Master Thesis Student Mora!
-<!-- excerpt end --></p>]]></content><author><name></name></author><category term="team" /><summary type="html"><![CDATA[Welcoming our Newest Post doctoral Researcher Joran, and Master Thesis Student Mora!]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[]]></summary></entry></feed>
