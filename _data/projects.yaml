@@ -35,3 +35,11 @@
   tags:
     - software
     - spatial-omics
+
+- title: LipoGrid
+  group: featured
+  image: images/projects/lipogrid.png
+  link: https://sifrimlab.org/LipoGrid/
+  description: A high-throughput multi-omics perturbation screen to dissect the genetic architecture of lipid metabolism.
+  tags:
+    - spatial-omics

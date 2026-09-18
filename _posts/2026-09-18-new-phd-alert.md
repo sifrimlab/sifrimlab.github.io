@@ -22,3 +22,6 @@ The candidate will develop and benchmark zero-shot multimodal fusion models for 
 - Comfortable working on Linux and HPC/GPU systems, with version control (git) and reproducible workflows (conda or containers, Snakemake or Nextflow).
 - Able to work independently as well as within an interdisciplinary, international consortium.
 - Proficiency in the English language is required, as well as good communication skills, both oral and written. 
+
+For more details on how to apply, check out the official page [here](https://www.kuleuven.be/personeel/jobsite/jobs/60742642). You can apply for this job **no later than October 15, 2026**.
+
