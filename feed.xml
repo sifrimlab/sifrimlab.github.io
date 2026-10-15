@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-09-18T14:29:08+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">LMIB hosts the Interuniversity Cardio Genetics Conference 2026</title><link href="/2026/09/18/deepheart.html" rel="alternate" type="text/html" title="LMIB hosts the Interuniversity Cardio Genetics Conference 2026" /><published>2026-09-18T00:00:00+00:00</published><updated>2026-09-18T00:00:00+00:00</updated><id>/2026/09/18/deepheart</id><content type="html" xml:base="/2026/09/18/deepheart.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-10-15T10:37:30+00:00</updated><id>/feed.xml</id><title type="html">Laboratory of Multi-omic Integrative Bioinformatics</title><subtitle>Welcome to the Laboratory of Multi-omic Integrative Bioinformatics (LMIB)</subtitle><entry><title type="html">LMIB hosts the Interuniversity Cardio Genetics Conference 2026</title><link href="/2026/09/18/deepheart.html" rel="alternate" type="text/html" title="LMIB hosts the Interuniversity Cardio Genetics Conference 2026" /><published>2026-09-18T00:00:00+00:00</published><updated>2026-09-18T00:00:00+00:00</updated><id>/2026/09/18/deepheart</id><content type="html" xml:base="/2026/09/18/deepheart.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
 
 <p>On Friday, 23 October 2026, the Interuniversity Cardio Genetics Conference will bring together researchers, clinicians, and experts in cardiovascular genetics for a one-day scientific meeting in Leuven, Belgium, hosted at O&amp;N5 Gasthuisberg.
@@ -193,65 +193,20 @@ We presented our attempt at adding to the rich contributions of the Belgian Rese
 </figure>
 
   </div>
-</div>]]></content><author><name></name></author><category term="conference" /><summary type="html"><![CDATA[Research Software Engineering (RSE) is a relatively new field that spans several disciplines while sitting at the intersection of software engineering and research. The needs of software engineering in academic research differ significantly from those of its traditional commercial counterpart. We presented our attempt at adding to the rich contributions of the Belgian Research Software Engineering Community (BE-RSE) at the RSE Day organised by KU Leuven on 4 December 2025, with a demonstration of the Automated FAIR Data Management tool developed by our Data Engineer Saptarshi at LMIB/LISCO. This tool aims to automate the management of data throughout its lifecycle, from ingestion to archival, while remaining compliant with FAIR principles.]]></summary></entry><entry><title type="html">LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium</title><link href="/2025/10/01/biohackathon.html" rel="alternate" type="text/html" title="LMIB Leads the Organization of the Interuniversity Biohackathon Belgium in Collaboration with RSG Belgium" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>/2025/10/01/biohackathon</id><content type="html" xml:base="/2025/10/01/biohackathon.html"><![CDATA[<!-- excerpt start -->
+</div>]]></content><author><name></name></author><category term="conference" /><summary type="html"><![CDATA[Research Software Engineering (RSE) is a relatively new field that spans several disciplines while sitting at the intersection of software engineering and research. The needs of software engineering in academic research differ significantly from those of its traditional commercial counterpart. We presented our attempt at adding to the rich contributions of the Belgian Research Software Engineering Community (BE-RSE) at the RSE Day organised by KU Leuven on 4 December 2025, with a demonstration of the Automated FAIR Data Management tool developed by our Data Engineer Saptarshi at LMIB/LISCO. This tool aims to automate the management of data throughout its lifecycle, from ingestion to archival, while remaining compliant with FAIR principles.]]></summary></entry><entry><title type="html">Congrats Anis for Receiving an FWO PhD Fellowship!</title><link href="/2025/10/15/anis-fwo2026.html" rel="alternate" type="text/html" title="Congrats Anis for Receiving an FWO PhD Fellowship!" /><published>2025-10-15T00:00:00+00:00</published><updated>2025-10-15T00:00:00+00:00</updated><id>/2025/10/15/anis-fwo2026</id><content type="html" xml:base="/2025/10/15/anis-fwo2026.html"><![CDATA[<!-- excerpt start -->
 <!-- excerpt end -->
+<p>We are thrilled to share that our colleague Anis has been awarded a PhD fellowship from the Research Foundation Flanders (FWO)!</p>
 
-<p>On September 24 and 25, our colleagues Anis and Saptarshi led the organization of the first Interuniversity Biohackathon Belgium, marking the return of the Regional Student Group (RSG) Belgium of the International Society for Computational Biology (ISCB) after a five-year hiatus.</p>
+<p>This fellowship will support his doctoral research in our lab, where he will focus on using explainable AI to interpret representation learning models to uncover novel biological hypotheses in multi-omics research.</p>
 
-<p>In collaboration with colleagues from VUB/ULB, University of Antwerp, and with speakers from Instadeep and Scienta Lab, the hackathon kicked off with inspiring keynotes and hands-on sessions delivered by field experts. Anis, President of RSG Belgium, then unveiled the three hackathon challenges, with teams working intensively across the tracks before presenting their final pitches to the jury the next day.</p>
+<p>A huge congratulations to Anis for this outstanding achievement, we’re proud and excited to see his research take off!</p>
 
-<p>We warmly congratulate all winning teams and thank the organizing committee: Anis, Saptarshi, Wim, Nassim, Eline and volunteers Fatemeh and Vasiliki, for delivering such an exciting and successful event: a true milestone for RSG Belgium’s comeback.</p>
-
-<p>You can learn more about RSG Belgium <a href="https://rsg-belgium.org/">here</a>.</p>
-
-<style>
-.image-grid {
-  display: grid;
-  grid-template-columns: 40% 60%;
-  gap: 0; /* adjust if you want spacing */
-  width: 100%;
-}
-
-.image-grid .img-1,
-.image-grid .img-2 {
-  height: 400px; /* adjust as needed */
-  overflow: hidden;
-}
-
-.image-grid .img-3 {
-  grid-column: 1 / span 2; /* make it full width below */
-  margin-top: 10px;
-}
-</style>
-
-<div class="image-grid">
-  <div class="img-1">
-    <figure class="figure">
+<figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/biohackathon-1.jpg" style="
-        width: 100%;
+    <img src="/images/news/fwo_announcement_post.png" style="
+        width: 75%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>
-
-  </div>
-
-  <div class="img-2">
-    <figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/news/biohackathon-2.jpg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-  </div>
-
-  <div class="img-3">
-    <img src="/images/news/biohackathon-3.jpg" alt="LMI Beach Event 2025" style="width: 100%; object-fit: cover;" />
-  </div>
-</div>]]></content><author><name></name></author><category term="hackathon" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+</figure>]]></content><author><name></name></author><category term="awards" /><category term="LISCO" /><summary type="html"><![CDATA[We are thrilled to share that our colleague Anis has been awarded a PhD fellowship from the Research Foundation Flanders (FWO)!]]></summary></entry></feed>
