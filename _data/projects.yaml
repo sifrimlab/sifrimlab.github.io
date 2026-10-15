@@ -1,3 +1,20 @@
+- title: Causal Integrated Gradients
+  group: featured
+  image: images/projects/cig.png
+  link: https://sifrimlab.org/CausalIG/
+  description: A scalable gradient-based feature attribution method that follows the causal structure of the features.
+  tags:
+    - software
+    - explainable-ai
+
+- title: LipoGrid
+  group: featured
+  image: images/projects/lipogrid.png
+  link: https://sifrimlab.org/LipoGrid/
+  description: A high-throughput multi-omics perturbation screen to dissect the genetic architecture of lipid metabolism.
+  tags:
+    - spatial-omics
+
 - title: FOCUS
   group: featured
   image: images/projects/focus.png
@@ -6,6 +23,7 @@
   tags:
     - software
     - multi-omics
+
 - title: Multiverse
   group: featured
   image: images/projects/multiverse.png
@@ -16,7 +34,7 @@
     - multi-omics
 
 - title: MIMA
-  group: featured
+  group: 
   image: images/projects/mima.png
   link: https://github.com/sifrimlab/mima
   description: MIMA is a Multimodal Variational Autoencoder designed for the integration of heterogeneous molecular layers, enabling a comprehensive multimodal representation of the cellular state.
@@ -36,10 +54,3 @@
     - software
     - spatial-omics
 
-- title: LipoGrid
-  group: featured
-  image: images/projects/lipogrid.png
-  link: https://sifrimlab.org/LipoGrid/
-  description: A high-throughput multi-omics perturbation screen to dissect the genetic architecture of lipid metabolism.
-  tags:
-    - spatial-omics
