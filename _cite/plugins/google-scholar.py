@@ -1,5 +1,3 @@
-import os
-from serpapi import GoogleSearch
 from util import *
 
 
@@ -7,55 +5,56 @@ def main(entry):
     """
     receives single list entry from google-scholar data file
     returns list of sources to cite
+
+    Scholar has no official API and often blocks automated clients, so any failure to
+    reach it is only a warning: ORCID and the pinned sources still produce citations.
     """
 
-    # get api key (serp api key to access google scholar)
-    api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY", "")
-    if not api_key:
-        raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
-
-    # serp api properties
-    params = {
-        "engine": "google_scholar_author",
-        "api_key": api_key,
-        "num": 100,  # max allowed
-    }
-
-    # get id from entry
     _id = get_safe(entry, "gsid", "")
     if not _id:
         raise Exception('No "gsid" key')
 
-    # query api
     @log_cache
     @cache.memoize(name=__file__, expire=1 * (60 * 60 * 24))
     def query(_id):
-        params["author_id"] = _id
-        return get_safe(GoogleSearch(params).get_dict(), "articles", [])
+        from scholarly import scholarly
 
-    response = query(_id)
+        author = scholarly.search_author_id(_id)
+        author = scholarly.fill(author, sections=["publications"])
+        works = []
+        for pub in get_safe(author, "publications", []):
+            bib = get_safe(pub, "bib", {})
+            works.append(
+                {
+                    "title": get_safe(bib, "title", ""),
+                    "year": str(get_safe(bib, "pub_year", "") or ""),
+                }
+            )
+        return works
 
-    # list of sources to return
+    try:
+        works = query(_id)
+    except Exception as e:
+        log(f"Google Scholar unavailable, skipping ({type(e).__name__}: {e})", 3, "WARNING")
+        return []
+
     sources = []
-
-    # go through response and format sources
-    for work in response:
-        # create source
-        year = get_safe(work, "year", "")
-        source = {
-            "id": get_safe(work, "citation_id", ""),
-            # api does not provide Manubot-citeable id, so keep citation details
-            "title": get_safe(work, "title", ""),
-            "authors": list(map(str.strip, get_safe(work, "authors", "").split(","))),
-            "publisher": get_safe(work, "publication", ""),
-            "date": (year + "-01-01") if year else "",
-            "link": get_safe(work, "link", ""),
-        }
-
-        # copy fields from entry to source
-        source.update(entry)
-
-        # add source to list
-        sources.append(source)
+    seen = set()
+    for work in works:
+        title = get_safe(work, "title", "")
+        if not title:
+            continue
+        try:
+            doi = doi_from_title(title, get_safe(work, "year", ""), get_safe(entry, "author", ""))
+        except Exception as e:
+            log(f'Crossref lookup failed for "{title}" ({e})', 3, "WARNING")
+            continue
+        if not doi:
+            log(f'No DOI match for Scholar entry "{title}"', 3, "WARNING")
+            continue
+        if doi in seen:
+            continue
+        seen.add(doi)
+        sources.append({"id": f"doi:{doi}"})
 
     return sources

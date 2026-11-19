@@ -2,7 +2,7 @@ name: on-pull-request
 run-name: on pull request activity
 
 on:
-  pull_request_target:
+  pull_request:
     types:
       - opened
       - reopened
@@ -14,9 +14,5 @@ permissions:
   pull-requests: write
 
 jobs:
-  update-citations:
-    uses: ./.github/workflows/update-citations.yaml
-
   build-preview:
-    needs: update-citations
     uses: ./.github/workflows/build-preview.yaml

@@ -1,0 +1,58 @@
+.wrap {
+  width: 100%;
+  max-width: calc(var(--wrap) + 2 * var(--gutter));
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.section {
+  padding-block: var(--section);
+}
+
+.section + .section {
+  border-top: 1px solid var(--rule);
+}
+
+.section--tight {
+  padding-block: calc(var(--section) * 0.6);
+}
+
+.section--paper-2 {
+  background: var(--paper-2);
+}
+
+/* A section head: pair-mark label + serif heading + optional aside link */
+.sec-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: space-between;
+  gap: var(--s-4) var(--s-6);
+  margin-bottom: clamp(2rem, 1.5rem + 2vw, 3.5rem);
+}
+
+.sec-head h2 {
+  margin-top: var(--s-3);
+  max-width: 22ch;
+}
+
+.split {
+  display: grid;
+  gap: var(--s-6);
+}
+
+@media (min-width: 900px) {
+  .split {
+    grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
+    gap: var(--s-8);
+  }
+}
+
+/* The navigation bar and the footer are brought down by --chrome-zoom on big screens (see
+   index.html); their content column is widened by the same factor so it still lines up with
+   the page's column. */
+.nav .wrap,
+.foot .wrap {
+  max-width: calc((var(--wrap) + 2 * var(--gutter)) / var(--chrome-zoom, 1));
+  padding-inline: calc(var(--gutter) / var(--chrome-zoom, 1));
+}

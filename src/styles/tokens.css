@@ -1,0 +1,107 @@
+/*
+ * LMIB design tokens: "paper & two inks".
+ *
+ * Two inks carry equal weight:
+ *   --bio   the logo's orange, used for biology (questions, tissue, molecules)
+ *   --comp  a deep Leuven-adjacent blue, used for computation (models, methods)
+ * They sit on a warm paper ground with blue-black text: never flat black.
+ * Dark mode is a blue-grey night, not black.
+ */
+:root {
+  color-scheme: light;
+
+  /* ground */
+  --paper: #f6f2ea;
+  --paper-2: #efe9dd;
+  --surface: #fffdf8;
+  --ink: #1a2130;
+  --ink-2: #333b4c;
+  --muted: #5c6372;
+  --rule: rgb(26 33 48 / 0.13);
+  --rule-strong: rgb(26 33 48 / 0.28);
+
+  /* the two inks */
+  --bio: #c4572a;
+  --bio-text: #a9461d;
+  --bio-tint: #f4e2d6;
+  --comp: #23477a;
+  --comp-text: #23477a;
+  --comp-tint: #dfe6f0;
+  --node-grey: #8a8f99;
+
+  /* type */
+  --font-serif: 'Newsreader Variable', 'Newsreader', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+  --font-sans: 'Instrument Sans Variable', 'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --t-display: clamp(2.6rem, 1.6rem + 4.4vw, 5.4rem);
+  --t-h1: clamp(2.3rem, 1.7rem + 2.6vw, 3.9rem);
+  --t-page: clamp(2rem, 1.6rem + 1.6vw, 3rem);
+  --t-h2: clamp(1.75rem, 1.4rem + 1.5vw, 2.6rem);
+  --t-h3: clamp(1.3rem, 1.15rem + 0.6vw, 1.65rem);
+  --t-lead: clamp(1.15rem, 1.07rem + 0.35vw, 1.35rem);
+  --t-body: 1.0625rem;
+  --t-prose: clamp(1.1rem, 1.06rem + 0.18vw, 1.2rem);
+  --t-small: 0.9375rem;
+  --t-label: 0.78rem;
+
+  /* space (4px base) */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-5: 1.5rem;
+  --s-6: 2rem;
+  --s-7: 3rem;
+  --s-8: 4rem;
+  --s-9: 6rem;
+  --s-10: 8rem;
+  --section: clamp(4rem, 2.5rem + 6vw, 8rem);
+
+  --wrap: 76rem;
+  --gutter: clamp(1rem, 0.4rem + 3vw, 3rem);
+  --measure: 66ch;
+  /* rendered height of the navigation bar (rem, brought down by --chrome-zoom: see index.html) */
+  --nav-h: calc(4.25rem * var(--chrome-zoom, 1));
+  --radius: 4px;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+    --paper: #141a26;
+    --paper-2: #182030;
+    --surface: #1b2333;
+    --ink: #ebe7df;
+    --ink-2: #cfd2d8;
+    --muted: #a3a9b6;
+    --rule: rgb(235 231 223 / 0.13);
+    --rule-strong: rgb(235 231 223 / 0.3);
+    --bio: #e8875a;
+    --bio-text: #f09a6b;
+    --bio-tint: #33261f;
+    --comp: #7fa3dc;
+    --comp-text: #94b4e6;
+    --comp-tint: #1d2a41;
+    --node-grey: #6d7483;
+  }
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --paper: #141a26;
+  --paper-2: #182030;
+  --surface: #1b2333;
+  --ink: #ebe7df;
+  --ink-2: #cfd2d8;
+  --muted: #a3a9b6;
+  --rule: rgb(235 231 223 / 0.13);
+  --rule-strong: rgb(235 231 223 / 0.3);
+  --bio: #e8875a;
+  --bio-text: #f09a6b;
+  --bio-tint: #33261f;
+  --comp: #7fa3dc;
+  --comp-text: #94b4e6;
+  --comp-tint: #1d2a41;
+  --node-grey: #6d7483;
+}

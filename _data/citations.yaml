@@ -1,5 +1,270 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arxiv:2610.22126
+  title: 'Causal Integrated Gradients: Scalable Feature Attribution Along Causal Paths'
+  authors:
+  - Joran Michiels
+  - Anis Ismail
+  - Maarten De Vos
+  - Alejandro Sifrim
+  publisher: arXiv
+  date: '2026-10-19'
+  link: https://arxiv.org/abs/2610.22126
+- id: doi:10.64898/2026.10.06.757034
+  title: Lack of adoption of computational gene-panel-selection tools in targeted
+    spatial transcriptomics
+  authors:
+  - Ceyhun Alar
+  - Lorenzo Venturelli
+  - Jelle Jacobs
+  - Alejandro Sifrim
+  publisher: openRxiv
+  date: '2026-10-13'
+  link: https://doi.org/10.64898/2026.10.06.757034
+- id: doi:10.64898/2026.09.10.750574
+  title: Modular click-chemistry-based engineering minimally perturbs CRISPR ribonucleoprotein
+    formation for genome imaging applications
+  authors:
+  - Charlotte Van Tricht
+  - Saphyra Thonon
+  - David Wouters
+  - Alejandro Sifrim
+  - Katy Vandereyken
+  - Vitor B. Pinheiro
+  - Thierry Voet
+  - Jeroen Lammertyn
+  - Dragana Spasic
+  publisher: openRxiv
+  date: '2026-09-13'
+  link: https://doi.org/10.64898/2026.09.10.750574
+- id: doi:10.64898/2026.08.12.744385
+  title: 'LipoGrid: A High-Throughput Multi-omics Perturbation Screen Dissects the
+    Genetic Architecture of Lipid Metabolism'
+  authors:
+  - Jelle Jacobs
+  - Paulien Van Minsel
+  - Nina Ravoet
+  - Emiel De Rieck
+  - Niels Vandermeulen
+  - Lorenzo Venturelli
+  - Katy Vandereyken
+  - Karen Ven
+  - Jolien Breukers
+  - David Wouters
+  - Thierry Voet
+  - Jeroen Lammertyn
+  - Johannes V. Swinnen
+  - Bernard Thienpont
+  - Alejandro Sifrim
+  publisher: openRxiv
+  date: '2026-08-13'
+  link: https://doi.org/10.64898/2026.08.12.744385
+- id: doi:10.64898/2026.08.04.742705
+  title: 'FOCUS: end-to-end preprocessing, alignment and resolution-matched integration
+    of spatial multi-omics data'
+  authors:
+  - Lorenzo Venturelli
+  - Jelle Jacobs
+  - Alejandro Sifrim
+  publisher: openRxiv
+  date: '2026-08-09'
+  link: https://doi.org/10.64898/2026.08.04.742705
+- id: doi:10.1038/s41467-026-73979-0
+  title: A stretch-responsive fibroblast program promotes epidermal stem cell self-renewal
+    during skin expansion
+  authors:
+  - Caroline Aguilera Stewart
+  - Ceyhun Alar
+  - Gaia Andrea Gozza
+  - Leslie Bargsted
+  - Ioanna Kaklamanou
+  - Maria Pia Polito
+  - Giulia Bergamini
+  - Lorenzo Tagliazucchi
+  - Andrea Alessandrini
+  - Maria Paola Costi
+  - Elena Enzo
+  - Alejandro Sifrim
+  - Mariaceleste Aragona
+  publisher: Nature Communications
+  date: '2026-06-12'
+  link: https://doi.org/10.1038/s41467-026-73979-0
+- id: doi:10.1038/s41525-026-00582-z
+  title: Assessing the contribution of rare variants to congenital heart disease through
+    a large-scale case-control exome study
+  authors:
+  - Enrique Audain
+  - Anna Wilsdon
+  - Gregor Dombrowsky
+  - Alejandro Sifrim
+  - Jeroen Breckpot
+  - Yasset Perez-Riverol
+  - Siobhan Loughna
+  - Allan Daly
+  - Pavlos Antoniou
+  - Philipp Hofmann
+  - Amilcar Perez-Riverol
+  - Anne-Karin Kahlert
+  - Ulrike Bauer
+  - Thomas Pickardt
+  - Sabine Klaassen
+  - Felix Berger
+  - Ingo Daehnert
+  - Sven Dittrich
+  - Brigitte Stiller
+  - Hashim Abdul-Khaliq
+  - "Frances Bu\u2019lock"
+  - Anselm Uebing
+  - Hans-Heiner Kramer
+  - Vivek Iyer
+  - Lars Allan Larsen
+  - J. David Brook
+  - Marc-Phillip Hitz
+  publisher: npj Genomic Medicine
+  date: '2026-06-02'
+  link: https://doi.org/10.1038/s41525-026-00582-z
+- id: doi:10.64898/2026.04.28.720613
+  title: 'SubCellSpace: Automated characterization of subcellular mRNA localization
+    patterns in spatial transcriptomics'
+  authors:
+  - David Wouters
+  - Jose Ignacio Alvira Larizgoitia
+  - Nynke Tilkema
+  - Paulien Van Minsel
+  - Ceyhun Alar
+  - Nick Seeuws
+  - Ilias Theodoros Koulalis
+  - Minkyoung Lee
+  - Niels Vandermeulen
+  - Srivathsan Adivarahan
+  - Sandrine Da Cruz
+  - Katy Vandereyken
+  - Andreas Moor
+  - Bernard Thienpont
+  - Thierry Voet
+  - Alejandro Sifrim
+  publisher: openRxiv
+  date: '2026-04-30'
+  link: https://doi.org/10.64898/2026.04.28.720613
+- id: doi:10.21203/rs.3.rs-7535904/v2
+  title: Regional partitioning of colorectal epithelial cells is altered in gastrointestinal
+    disorders without overt inflammation
+  authors:
+  - Alexandre Denadai-Souza
+  - Elodie Modave
+  - Ceyhun Alar
+  - Yan Wu
+  - Javier Escudero Morlanes
+  - Leire Alonso Galicia
+  - Cansu Akkaya
+  - Matthias van Sligtenhorst
+  - Xesus Abalo
+  - Ludvig Larsson
+  - "Jana\xEDne Prata de Oliveira"
+  - David Wouters
+  - Javier Aguilera-Lizarraga
+  - Hannah Ceuleers
+  - Samuel Van Remoortel
+  - Joris G. De Man
+  - Benedicte Y. De Winter
+  - Ashif I. Bhuiyan
+  - Thomas Lefevre
+  - Jens Van Herck
+  - Anabela Santo Ramalho
+  - "Fran\xE7ois Vermeulen"
+  - Marie Wallays
+  - Niels Vandermeulen
+  - Hannelie Korf
+  - Schalk van der Merwe
+  - Soraia Costa
+  - Kaline Arnauts
+  - "Ana\xEBlle Durbec"
+  - Nicolas Cenac
+  - Gert de Hertogh
+  - Sanjai K. Pathak
+  - "Jo\xE3o Sabino"
+  - Bram Verstockt
+  - Severine Vermeire
+  - Katy Vandereyken
+  - Marc Ferrante
+  - Joakim Lundeberg
+  - Alejandro Sifrim
+  - Thierry Voet
+  - Guy Boeckxstaens
+  publisher: Research Square
+  date: '2026-03-05'
+  link: https://doi.org/10.21203/rs.3.rs-7535904/v2
+- id: doi:10.1038/s41593-025-02101-2
+  title: Axonal Eif5a hypusination controls local translation and mitigates defects
+    in FUS-ALS
+  authors:
+  - Diana Piol
+  - Bilal Khalil
+  - Tessa Robberechts
+  - Theo Killian
+  - Maria Georgopoulou
+  - Gabriele Partel
+  - David Wouters
+  - Nikolai Hecker
+  - Paraskevi Tziortzouda
+  - Yana Verresen
+  - Nikky Corthout
+  - Sam Kint
+  - Katy Vandereyken
+  - Philip Van Damme
+  - Thierry Voet
+  - Kristofer Davie
+  - Suresh Poovathingal
+  - Ludo Van Den Bosch
+  - Stein Aerts
+  - Alejandro Sifrim
+  - Sandrine Da Cruz
+  publisher: Nature Neuroscience
+  date: '2025-12-22'
+  link: https://doi.org/10.1038/s41593-025-02101-2
+- id: doi:10.64898/2025.12.09.693234
+  title: Motor System Oligodendroglia Atlas Reveals Activation States Associated with
+    Region-Specific Vulnerability in ALS
+  authors:
+  - Maria Georgopoulou
+  - Frederik Hobin
+  - Jonas Dubin
+  - Pegah Masrori
+  - Geethika Arekatla
+  - Koen Poesen
+  - Sandrine Da Cruz
+  - Ludo Van Den Bosch
+  - Dietmar Rudolf Thal
+  - Alejandro Sifrim
+  - Philip Van Damme
+  publisher: openRxiv
+  date: '2025-12-12'
+  link: https://doi.org/10.64898/2025.12.09.693234
+- id: doi:10.1002/alz70855_103205
+  title: "Networks of age-related pathologies and APOE \u03B54: their role in hippocampal\
+    \ degeneration"
+  authors:
+  - Klara Gawor
+  - Sam Verrept
+  - Geethika Arekatla
+  - David Wouters
+  - Alicja Ronisz
+  - Celeste Laureyssen
+  - Helena Ver Donck
+  - Bas Lahaije
+  - Simona Ospitalieri
+  - Mathieu Vandenbulcke
+  - Markus Otto
+  - Christine A.F. von Arnim
+  - Estifanos Ghebremedhin
+  - Rik Vandenberghe
+  - Alejandro Sifrim
+  - Kristel Sleegers
+  - Dietmar Rudolf Thal
+  - "Sandra O. Tom\xE9"
+  publisher: Alzheimer's & Dementia
+  date: '2025-12-01'
+  link: https://doi.org/10.1002/alz70855_103205
 - id: doi:10.1101/2025.10.21.683449
   title: Multi-omics integration and batch correction using a modality-agnostic deep
     learning framework
@@ -30,71 +295,459 @@
   - Alejandro Sifrim
   publisher: openRxiv
   date: '2025-10-22'
-  link: https://doi.org/hb68tk
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.21203/rs.3.rs-8351425/v1
-  title: Motor System Oligodendroglia Atlas Reveals Activation States Associated with
-    Region-Specific Vulnerability in ALS
+  link: https://doi.org/10.1101/2025.10.21.683449
+- id: doi:10.1038/s41586-025-09228-z
+  title: Nutrients activate distinct patterns of small-intestinal enteric neurons
   authors:
-  - Philip Van Damme
-  - Maria Georgopoulou
-  - Frederik Hobin
-  - Jonas Dubin
-  - Pegah Masrori
-  - Geethika Arekatla
-  - Koen Poesen
-  - Sandrine Da Cruz
-  - Ludo Van Den Bosch
-  - Dietmar Thal
+  - Candice Fung
+  - Tom Venneman
+  - Amy M. Holland
+  - Tobie Martens
+  - Milvia I. Alata
+  - Marlene M. Hao
+  - Ceyhun Alar
+  - Yuuki Obata
+  - Jan Tack
   - Alejandro Sifrim
-  publisher: Springer Science and Business Media LLC
-  date: '2026-01-07'
-  link: https://doi.org/hb68t6
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.64898/2026.04.28.720613
-  title: 'SubCellSpace: Automated characterization of subcellular mRNA localization
-    patterns in spatial transcriptomics'
+  - Vassilis Pachnis
+  - Werend Boesmans
+  - Pieter Vanden Berghe
+  publisher: Nature
+  date: '2025-07-09'
+  link: https://doi.org/10.1038/s41586-025-09228-z
+- id: doi:10.1002/alz.70483
+  title: "Alzheimer's disease and its co-pathologies: Implications for hippocampal\
+    \ degeneration, cognitive decline, and the role of APOE \u03B54"
   authors:
+  - Klara Gawor
+  - Sam Verrept
+  - Geethika Arekatla
+  - David Wouters
+  - Alicja Ronisz
+  - Moritz Hecht
+  - Celeste Laureyssen
+  - Helena Ver Donck
+  - Bas Lahaije
+  - Simona Ospitalieri
+  - Mathieu Vandenbulcke
+  - Markus Otto
+  - Christine A. F. von Arnim
+  - Estifanos Ghebremedhin
+  - Bernard Hanseeuw
+  - Rik Vandenberghe
+  - Matthew Blaschko
+  - Alejandro Sifrim
+  - Kristel Sleegers
+  - Dietmar Rudolf Thal
+  - "Sandra O. Tom\xE9"
+  publisher: Alzheimer's & Dementia
+  date: '2025-07-01'
+  link: https://doi.org/10.1002/alz.70483
+- id: doi:10.1038/s43018-025-00994-3
+  title: "Innate immunity and the NF-\u03BAB pathway control prostate stem cell plasticity,\
+    \ reprogramming and tumor initiation"
+  authors:
+  - Chen Jiang
+  - Yura Song
+  - Sandrine Rorive
+  - Justine Allard
+  - Elisavet Tika
+  - Zahra Zahedi
+  - Christine Dubois
+  - Isabelle Salmon
+  - Alejandro Sifrim
+  - "C\xE9dric Blanpain"
+  publisher: Nature Cancer
+  date: '2025-06-23'
+  link: https://doi.org/10.1038/s43018-025-00994-3
+- id: doi:10.1101/2025.05.09.653178
+  title: Spatial epigenomic niches underlie glioblastoma cell state plasticity
+  authors:
+  - Sam Kint
+  - Subhi Talal Younes
+  - Shuozhen Bao
+  - Gretchen Long
+  - David Wouters
+  - Erin Stephenson
+  - Xing Lou
+  - Mei Zhong
+  - Di Zhang
+  - Graham Su
+  - Archibald Enninful
+  - Mingyu Yang
+  - Huey-Miin Chen
+  - Katrina Ellestad
+  - Colleen Anderson
+  - Jennifer Moliterno
+  - John Kelly
+  - Jennifer A Chan
+  - Alejandro Sifrim
+  - Jiangbing Zhou
+  - Ana Nikolic
+  - Rong Fan
+  - Marco Gallo
+  publisher: openRxiv
+  date: '2025-05-14'
+  link: https://doi.org/10.1101/2025.05.09.653178
+- id: doi:10.1093/nar/gkaf173
+  title: Single-cell genome and transcriptome sequencing without upfront whole-genome
+    amplification reveals cell state plasticity of melanoma subclones
+  authors:
+  - Koen Theunis
+  - Sebastiaan Vanuytven
+  - Irene Claes
+  - Jarne Geurts
+  - Florian Rambow
+  - Daniel Brown
+  - Michiel Van Der Haegen
+  - Oskar Marin-Bejar
+  - Aljosja Rogiers
+  - Nina Van Raemdonck
+  - Eleonora Leucci
+  - Jonas Demeulemeester
+  - Alejandro Sifrim
+  - Jean-Christophe Marine
+  - Thierry Voet
+  publisher: Nucleic Acids Research
+  date: '2025-03-20'
+  link: https://doi.org/10.1093/nar/gkaf173
+- id: doi:10.1101/2025.03.18.643853
+  title: Defining the role of fibroblasts in skin expansion
+  authors:
+  - Caroline Aguilera Stewart
+  - Ceyhun Alar
+  - Leslie Bargsted
+  - Ioanna Kaklamanou
+  - Gaia Andrea Gozza
+  - Maria Pia Polito
+  - Elena Enzo
+  - Alejandro Sifrim
+  - Mariaceleste Aragona
+  publisher: openRxiv
+  date: '2025-03-19'
+  link: https://doi.org/10.1101/2025.03.18.643853
+- id: doi:10.1038/s41467-024-54843-5
+  title: Collagen signaling and matrix stiffness regulate multipotency in glandular
+    epithelial stem cells in mice
+  authors:
+  - Chen Jiang
+  - Alessia Centonze
+  - Yura Song
+  - Antonius Chrisnandy
+  - Elisavet Tika
+  - Saba Rezakhani
+  - Zahra Zahedi
+  - "Ga\xEBlle Bouvencourt"
+  - Christine Dubois
+  - Alexandra Van Keymeulen
+  - "Matthias L\xFCtolf"
+  - Alejandro Sifrim
+  - "C\xE9dric Blanpain"
+  publisher: Nature Communications
+  date: '2024-12-18'
+  link: https://doi.org/10.1038/s41467-024-54843-5
+- id: doi:10.1101/2024.11.29.626054
+  title: Single cell transcriptomics reveal mast cell heterogeneity in the human gut
+  authors:
+  - Hind Hussein
+  - Elodie Modave
+  - Nathalie Stakenborg
+  - Marcello Delfini
+  - Katy Vandereyken
+  - Alejandro Sifrim
+  - Thierry Voet
+  - Guy E. Boeckxstaens
+  publisher: openRxiv
+  date: '2024-12-03'
+  link: https://doi.org/10.1101/2024.11.29.626054
+- id: doi:10.1126/sciadv.adp6164
+  title: Secreted Apoe rewires melanoma cell state vulnerability to ferroptosis
+  authors:
+  - Sanket More
+  - Julie Bonnereau
+  - David Wouters
+  - Xander Spotbeen
+  - Panagiotis Karras
+  - Francesca Rizzollo
+  - Theo Killian
+  - Tom Venken
+  - Stefan Naulaerts
+  - Ellen Vervoort
+  - Maarten Ganne
+  - David Nittner
+  - Jelle Verhoeven
+  - Oliver Bechter
+  - Francesca Bosisio
+  - Diether Lambrechts
+  - Alejandro Sifrim
+  - Brent R. Stockwell
+  - Johannes V. Swinnen
+  - Jean Christophe Marine
+  - Patrizia Agostinis
+  publisher: Science Advances
+  date: '2024-10-18'
+  link: https://doi.org/10.1126/sciadv.adp6164
+- id: doi:10.1016/j.gim.2023.101059
+  title: Differential alternative splicing analysis links variation in ZRSR2 to a
+    novel type of oral-facial-digital syndrome
+  authors:
+  - Laurens Hannes
+  - Marta Atzori
+  - Alice Goldenberg
+  - "Jes\xFAs Argente"
+  - Tania Attie-Bitach
+  - Jeanne Amiel
+  - Catia Attanasio
+  - "D\xE9bora G. Braslavsky"
+  - Ange-Line Bruel
+  - Mireille Castanet
+  - "Christ\xE8le Dubourg"
+  - An Jacobs
+  - Stanislas Lyonnet
+  - Julian Martinez-Mayer
+  - "Mar\xEDa In\xE9s P\xE9rez Mill\xE1n"
+  - Nunziana Pezzella
+  - Elise Pelgrims
+  - Mio Aerden
+  - Marijke Bauters
+  - Anne Rochtus
+  - Paula Scaglia
+  - Ann Swillen
+  - Alejandro Sifrim
+  - Roberta Tammaro
+  - Frederic Tran Mau-Them
+  - Sylvie Odent
+  - Christel Thauvin-Robinet
+  - Brunella Franco
+  - Jeroen Breckpot
+  publisher: Genetics in Medicine
+  date: '2024-04-01'
+  link: https://doi.org/10.1016/j.gim.2023.101059
+- id: doi:10.1016/j.jhep.2023.10.039
+  title: Adipose tissue macrophage dysfunction is associated with a breach of vascular
+    integrity in NASH
+  authors:
+  - Markus Boesch
+  - Andreas Lindhorst
+  - Rita Feio-Azevedo
+  - Paola Brescia
+  - Alessandra Silvestri
+  - Matthias Lannoo
+  - Ellen Deleus
+  - Joris Jaekers
+  - Halit Topal
+  - Baki Topal
+  - Tessa Ostyn
+  - Marie Wallays
+  - Lena Smets
+  - Lukas Van Melkebeke
+  - "Anetta H\xE4rtlova"
+  - Tania Roskams
+  - Pierre Bedossa
+  - Jef Verbeek
+  - Olivier Govaere
+  - Sven Francque
+  - Alejandro Sifrim
+  - Thierry Voet
+  - Maria Rescigno
+  - Martin Gericke
+  - Hannelie Korf
+  - Schalk van der Merwe
+  publisher: Journal of Hepatology
+  date: '2024-03-01'
+  link: https://doi.org/10.1016/j.jhep.2023.10.039
+- id: doi:10.1038/s41586-023-06740-y
+  title: The extracellular matrix dictates regional competence for tumour initiation
+  authors:
+  - Nordin Bansaccal
+  - Pauline Vieugue
+  - Rahul Sarate
+  - Yura Song
+  - Esmeralda Minguijon
+  - Yekaterina A. Miroshnikova
+  - Dagmar Zeuschner
+  - Amandine Collin
+  - Justine Allard
+  - Dan Engelman
+  - Anne-Lise Delaunois
+  - "M\xE9lanie Liagre"
+  - Leona de Groote
+  - Evy Timmerman
+  - Delphi Van Haver
+  - Francis Impens
+  - Isabelle Salmon
+  - "Sara A. Wickstr\xF6m"
+  - Alejandro Sifrim
+  - "C\xE9dric Blanpain"
+  publisher: Nature
+  date: '2023-11-15'
+  link: https://doi.org/10.1038/s41586-023-06740-y
+- id: doi:10.1101/2023.08.28.555056
+  title: Integration of Multiple Spatial Omics Modalities Reveals Unique Insights
+    into Molecular Heterogeneity of Prostate Cancer
+  authors:
+  - Wanqiu Zhang
+  - Xander Spotbeen
+  - Sebastiaan Vanuytven
+  - Sam Kint
+  - Tassiani Sarretto
+  - Fabio Socciarelli
+  - Katy Vandereyken
+  - Jonas Dehairs
+  - Jakub Idkowiak
   - David Wouters
   - Jose Ignacio Alvira Larizgoitia
-  - Nynke Tilkema
-  - Paulien Van Minsel
-  - Ceyhun Alar
-  - Nick Seeuws
-  - Ilias Theodoros Koulalis
-  - Minkyoung Lee
-  - Niels Vandermeulen
-  - Srivathsan Adivarahan
-  - Sandrine Da Cruz
+  - Gabriele Partel
+  - Alice Ly
+  - Vincent de Laat
+  - "Maria Jos\xE9 Q Mantas"
+  - Thomas Gevaert
+  - Wout Devlies
+  - Chui Yan Mah
+  - Lisa M Butler
+  - Massimo Loda
+  - Steven Joniau
+  - Bart De Moor
+  - Alejandro Sifrim
+  - Shane R. Ellis
+  - Thierry Voet
+  - Marc Claesen
+  - Nico Verbeeck
+  - Johannes V. Swinnen
+  publisher: openRxiv
+  date: '2023-08-28'
+  link: https://doi.org/10.1101/2023.08.28.555056
+- id: doi:10.1038/s41586-023-06372-2
+  title: Pharmacological targeting of netrin-1 inhibits EMT in cancer
+  authors:
+  - Justine Lengrand
+  - Ievgenia Pastushenko
+  - Sebastiaan Vanuytven
+  - Yura Song
+  - David Venet
+  - Rahul M. Sarate
+  - Melanie Bellina
+  - Virginie Moers
+  - Alice Boinet
+  - Alejandro Sifrim
+  - Nicolas Rama
+  - Benjamin Ducarouge
+  - Jens Van Herck
+  - Christine Dubois
+  - Samuel Scozzaro
+  - Sophie Lemaire
+  - Sarah Gieskes
+  - Sophie Bonni
+  - Amandine Collin
+  - Nicolas Braissand
+  - Justine Allard
+  - Egor Zindy
+  - Christine Decaestecker
+  - Christos Sotiriou
+  - Isabelle Salmon
+  - Patrick Mehlen
+  - Thierry Voet
+  - "Agn\xE8s Bernet"
+  - "C\xE9dric Blanpain"
+  publisher: Nature
+  date: '2023-08-02'
+  link: https://doi.org/10.1038/s41586-023-06372-2
+- id: doi:10.1038/s41586-023-06200-7
+  title: Dedicated macrophages organize and maintain the enteric nervous system
+  authors:
+  - Maria Francesca Viola
+  - Marta Chavero-Pieres
+  - Elodie Modave
+  - Marcello Delfini
+  - Nathalie Stakenborg
+  - "Maria Cuende Est\xE9vez"
+  - Naomi Fabre
+  - Iris Appeltans
+  - Tobie Martens
   - Katy Vandereyken
-  - Andreas Moor
+  - Hannah Theobald
+  - Jens Van Herck
+  - Philippe Petry
+  - Simon Verheijden
+  - Sebastiaan De Schepper
+  - Alejandro Sifrim
+  - Zhaoyuan Liu
+  - Florent Ginhoux
+  - Mohamad Azhar
+  - Andreas Schlitzer
+  - Gianluca Matteoli
+  - Katrin Kierdorf
+  - Marco Prinz
+  - Pieter Vanden Berghe
+  - Thierry Voet
+  - Guy Boeckxstaens
+  publisher: Nature
+  date: '2023-06-14'
+  link: https://doi.org/10.1038/s41586-023-06200-7
+- id: doi:10.1038/s41576-023-00580-2
+  title: Methods and applications for single-cell and spatial multi-omics
+  authors:
+  - Katy Vandereyken
+  - Alejandro Sifrim
   - Bernard Thienpont
   - Thierry Voet
-  - Alejandro Sifrim
-  publisher: openRxiv
-  date: '2026-04-30'
-  link: https://doi.org/hb68t7
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.64898/2025.12.09.693234
-  title: Motor System Oligodendroglia Atlas Reveals Activation States Associated with
-    Region-Specific Vulnerability in ALS
+  publisher: Nature Reviews Genetics
+  date: '2023-03-02'
+  link: https://doi.org/10.1038/s41576-023-00580-2
+- id: doi:10.1371/journal.pgen.1009679
+  title: Integrative analysis of genomic variants reveals new associations of candidate
+    haploinsufficient genes with congenital heart disease
   authors:
-  - Maria Georgopoulou
-  - Frederik Hobin
-  - Jonas Dubin
-  - Pegah Masrori
-  - Geethika Arekatla
-  - Koen Poesen
-  - Sandrine Da Cruz
-  - Ludo Van Den Bosch
-  - Dietmar Rudolf Thal
+  - Enrique Audain
+  - Anna Wilsdon
+  - Jeroen Breckpot
+  - Jose M. G. Izarzugaza
+  - Tomas W. Fitzgerald
+  - Anne-Karin Kahlert
   - Alejandro Sifrim
-  - Philip Van Damme
-  publisher: openRxiv
-  date: '2025-12-12'
-  link: https://doi.org/hbrzh6
-  plugin: sources.py
-  file: sources.yaml
+  - "Florian W\xFCnnemann"
+  - Yasset Perez-Riverol
+  - Hashim Abdul-Khaliq
+  - Mads Bak
+  - Anne S. Bassett
+  - Woodrow D. Benson
+  - Felix Berger
+  - Ingo Daehnert
+  - Koenraad Devriendt
+  - Sven Dittrich
+  - Piers EF Daubeney
+  - Vidu Garg
+  - Karl Hackmann
+  - Kirstin Hoff
+  - Philipp Hofmann
+  - Gregor Dombrowsky
+  - Thomas Pickardt
+  - Ulrike Bauer
+  - Bernard D. Keavney
+  - Sabine Klaassen
+  - Hans-Heiner Kramer
+  - Christian R. Marshall
+  - Dianna M. Milewicz
+  - Scott Lemaire
+  - Joseph S. Coselli
+  - Michael E. Mitchell
+  - Aoy Tomita-Mitchell
+  - Siddharth K. Prakash
+  - Karl Stamm
+  - Alexandre F. R. Stewart
+  - Candice K. Silversides
+  - Reiner Siebert
+  - Brigitte Stiller
+  - Jill A. Rosenfeld
+  - Inga Vater
+  - Alex V. Postma
+  - Almuth Caliebe
+  - J. David Brook
+  - Gregor Andelfinger
+  - Matthew E. Hurles
+  - Bernard Thienpont
+  - Lars Allan Larsen
+  - Marc-Phillip Hitz
+  publisher: PLOS Genetics
+  date: '2021-07-29'
+  link: https://doi.org/10.1371/journal.pgen.1009679

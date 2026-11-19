@@ -1,0 +1,31 @@
+{
+  "name": "sifrimlab-website",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "content:compile": "tsx scripts/compile-content.ts",
+    "typecheck": "vue-tsc --noEmit",
+    "dev": "npm run content:compile && vite",
+    "build": "npm run content:compile && vue-tsc --noEmit && vite build && vite build --ssr src/entry-server.ts --outDir dist-ssr && tsx scripts/postbuild-routes.ts",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/instrument-sans": "^5.3.0",
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^22.10.2",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.5",
+    "vue-tsc": "^2.2.0",
+    "yaml": "^2.7.0"
+  }
+}
