@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, nextTick, ref, watch } from 'vue';
 import { useRoute } from 'vue-router';
-import { withBase } from '../lib/util';
+import LmibLogo from './LmibLogo.vue';
 
 const route = useRoute();
 const open = ref(false);
@@ -92,8 +92,7 @@ function toggleTheme(event: MouseEvent): void {
     <a class="skip-link" href="#main">Skip to content</a>
     <div class="wrap nav__bar">
       <RouterLink to="/" class="nav__brand" aria-label="LMIB, home">
-        <span class="nav__logo"><img :src="withBase('/images/logo-lmib-notext.svg')" alt="" width="34" height="34" /></span>
-        <span class="nav__name">LMIB</span>{{ ' ' }}<span class="nav__aff">KU Leuven</span>
+        <LmibLogo class="nav__logo" aria-hidden="true" />
       </RouterLink>
 
       <nav id="site-menu" class="nav__menu" aria-label="Main">
@@ -171,31 +170,8 @@ function toggleTheme(event: MouseEvent): void {
   margin-right: auto;
 }
 
-.nav__logo {
-  display: grid;
-  place-items: center;
-  width: 38px;
-  height: 38px;
-  border-radius: 50%;
-}
-
-.nav__logo img {
-  width: 34px;
-  height: 34px;
-}
-
-.nav__name {
-  font-family: var(--font-sans);
-  font-weight: 700;
-  font-size: 1.05rem;
-  letter-spacing: 0.06em;
-}
-
-.nav__aff {
-  padding-left: 0.6rem;
-  border-left: 1px solid var(--rule-strong);
-  font-size: var(--t-small);
-  color: var(--muted);
+.nav__brand .nav__logo {
+  height: 2.4rem;
 }
 
 .nav__menu {
@@ -303,20 +279,9 @@ function toggleTheme(event: MouseEvent): void {
   display: none;
 }
 
-/* the logo has near-black nodes: give it a paper disc on dark grounds */
-:global(:root[data-theme='dark']) .nav__logo {
-  background: #f6f2ea;
-}
-
-@media (prefers-color-scheme: dark) {
-  :global(:root:not([data-theme='light'])) .nav__logo {
-    background: #f6f2ea;
-  }
-}
-
 @media (max-width: 860px) {
-  .nav__aff {
-    display: none;
+  .nav__brand .nav__logo {
+    height: 2rem;
   }
 
   .nav__toggle {

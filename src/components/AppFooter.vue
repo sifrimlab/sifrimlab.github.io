@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import LmibLogo from './LmibLogo.vue';
 import { siteContent } from '../generated/content';
 import { LINKS } from '../lib/util';
 
@@ -11,7 +12,7 @@ const { home } = siteContent;
     <div class="wrap">
       <div class="foot__top">
         <div class="foot__id">
-          <p class="foot__name">{{ home.title }}</p>
+          <LmibLogo class="foot__logo" :label="home.title" />
           <p class="foot__aff">{{ home.affiliation }}</p>
         </div>
 
@@ -85,11 +86,8 @@ const { home } = siteContent;
   }
 }
 
-.foot__name {
-  font-family: var(--font-serif);
-  font-size: 1.45rem;
-  line-height: 1.2;
-  max-width: 20ch;
+.foot__id .foot__logo {
+  height: 3.25rem;
 }
 
 .foot__aff {
