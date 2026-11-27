@@ -1,18 +1,42 @@
 name: on-pull-request
-run-name: on pull request activity
+run-name: check pull request
+
+# Build-only check: fails the PR if the content references something that does not exist
+# (unknown DOI, team member, image...) or the site does not type-check / build.
+# Nothing is deployed from a pull request.
 
 on:
   pull_request:
-    types:
-      - opened
-      - reopened
-      - synchronize
-      - closed
+    branches:
+      - main
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 jobs:
-  build-preview:
-    uses: ./.github/workflows/build-preview.yaml
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout branch contents
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Compile Markdown content and build static Vue 3 site
+        run: npm run build
+
+      # download from the run summary to look at the built site locally
+      - name: Upload built site for inspection
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: dist
+          retention-days: 7

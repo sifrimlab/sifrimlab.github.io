@@ -90,6 +90,10 @@ jobs:
   deploy:
     needs: update-citations
     if: needs.update-citations.outputs.changed == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     uses: ./.github/workflows/build-site.yaml
     with:
       ref: main

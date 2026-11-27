@@ -1,5 +1,5 @@
 name: build-site
-run-name: build live site
+run-name: build and deploy live site
 
 on:
   # run when called from another workflow
@@ -12,15 +12,19 @@ on:
   # run if user manually requests it
   workflow_dispatch:
 
-# variables
-env:
-  PREVIEWS_FOLDER: preview
-
+# the caller's permissions cap these, so callers must grant pages + id-token too
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# one deployment at a time; let a running deploy finish rather than cancel it
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  build-site:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -41,9 +45,19 @@ jobs:
       - name: Compile Markdown content and build static Vue 3 site
         run: npm run build
 
-      - name: Commit live site to Pages branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Upload site as Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          folder: dist
-          clean-exclude: ${{ env.PREVIEWS_FOLDER }}
-          force: false
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

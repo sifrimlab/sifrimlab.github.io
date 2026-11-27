@@ -152,5 +152,6 @@ npm run build      # compile content, type-check, build, prerender every route i
 npm run preview    # serve dist/
 ```
 
-- `BASE_PATH=/preview/pr-12/ npm run build` builds for a sub-path; PR previews use this.
+- `BASE_PATH=/some/sub-path/ npm run build` builds for a sub-path (the live site uses `/`).
+- Pull requests are build-checked only (`on-pull-request.yml`); the built site is attached to the run as a `site-preview` artifact. Deployment happens on push to `main` via GitHub Pages (Settings → Pages → Source: **GitHub Actions**).
 - `HYDRATION_DEBUG=1 npm run build` logs prerender/hydration mismatches in the browser console.
