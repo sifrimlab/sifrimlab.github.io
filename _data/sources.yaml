@@ -1,4 +1,32 @@
-- id: doi:10.1101/2025.10.21.683449 
-- id: doi:10.21203/rs.3.rs-8351425/v1
-- id: doi:10.64898/2026.04.28.720613 
-- id: doi:10.64898/2025.12.09.693234 
+# Curated list of LMIB publications.
+# Every id below was verified against Crossref / arXiv (and the PI's ORCID / Google Scholar).
+# Add new works by DOI (or arxiv:ID); the update-citations workflow fills in title, authors, venue and date.
+
+# ── Lab-led work ─────────────────────────────────────────────
+- id: arxiv:2610.22126 # Causal Integrated Gradients (Michiels, Ismail, De Vos, Sifrim)
+- id: doi:10.64898/2026.10.06.757034 # Gene-panel-selection adoption in targeted spatial transcriptomics
+- id: doi:10.64898/2026.08.12.744385 # LipoGrid
+- id: doi:10.64898/2026.08.04.742705 # FOCUS
+- id: doi:10.64898/2026.04.28.720613 # SubCellSpace
+- id: doi:10.64898/2025.12.09.693234 # Motor system oligodendroglia atlas in ALS
+- id: doi:10.1101/2025.10.21.683449 # MIMA
+
+# ── Collaborative work ───────────────────────────────────────
+- id: doi:10.64898/2026.09.10.750574 # Click-chemistry CRISPR RNP engineering for genome imaging
+- id: doi:10.1038/s41467-026-73979-0 # Stretch-responsive fibroblast program, Nature Communications
+- id: doi:10.1038/s41525-026-00582-z # Rare variants in congenital heart disease, npj Genomic Medicine
+- id: doi:10.1038/s41593-025-02101-2 # Axonal Eif5a hypusination in FUS-ALS, Nature Neuroscience
+- id: doi:10.1002/alz.70483 # Alzheimer's disease co-pathologies, Alzheimer's & Dementia
+- id: doi:10.1038/s41586-025-09228-z # Nutrients activate enteric neurons, Nature
+- id: doi:10.1038/s43018-025-00994-3 # Prostate stem cell plasticity, Nature Cancer
+- id: doi:10.1093/nar/gkaf173 # Single-cell G&T-seq without WGA, Nucleic Acids Research
+- id: doi:10.1101/2024.11.29.626054 # Mast cell heterogeneity in the human gut
+- id: doi:10.1038/s41467-024-54843-5 # Collagen signalling and glandular stem cells, Nature Communications
+- id: doi:10.1126/sciadv.adp6164 # Secreted Apoe and melanoma ferroptosis, Science Advances
+- id: doi:10.1016/j.gim.2023.101059 # ZRSR2 and oral-facial-digital syndrome, Genetics in Medicine
+- id: doi:10.1016/j.jhep.2023.10.039 # Adipose tissue macrophages in NASH, Journal of Hepatology
+- id: doi:10.1038/s41586-023-06740-y # ECM and tumour initiation, Nature
+- id: doi:10.1038/s41586-023-06372-2 # Netrin-1 and EMT, Nature
+- id: doi:10.1038/s41586-023-06200-7 # Macrophages and the enteric nervous system, Nature
+- id: doi:10.1038/s41576-023-00580-2 # Single-cell and spatial multi-omics review, Nature Reviews Genetics
+- id: doi:10.1371/journal.pgen.1009679 # Haploinsufficient genes in congenital heart disease, PLOS Genetics

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LMIB</title>
+<meta name="description" content="The Laboratory of Multi-omic Integrative Bioinformatics (LMIB) at KU Leuven develops artificial intelligence for molecular biology: methods for multi-omic, spatial and single-cell data, applied to human disease.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LMIB · KU Leuven">
+<meta property="og:title" content="LMIB">
+<meta property="og:description" content="The Laboratory of Multi-omic Integrative Bioinformatics (LMIB) at KU Leuven develops artificial intelligence for molecular biology: methods for multi-omic, spatial and single-cell data, applied to human disease.">
+<meta property="og:image" content="%BASE_URL%images/share.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="%BASE_URL%images/favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#faf8f5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141a26" media="(prefers-color-scheme: dark)">
+<script>
+  (function () {
+    var d = document.documentElement;
+    // The theme is never stored: every page load follows the system colour scheme. (Drops a
+    // choice saved by an earlier version of the site.)
+    try { localStorage.removeItem('lmib-theme'); } catch (e) {}
+    // Large screens scale the page up (see base.css). The navigation bar and the footer only
+    // follow a third of that growth: --chrome-zoom is the factor that brings them back down.
+    var chrome = function () {
+      var scale = Math.min(Math.max(16, window.innerWidth / 100), 36) / 16;
+      d.style.setProperty('--chrome-zoom', ((1 + (scale - 1) * 0.3) / scale).toFixed(4));
+    };
+    chrome();
+    window.addEventListener('resize', chrome);
+    if ('IntersectionObserver' in window) {
+      d.classList.add('js-reveal');
+      // fail-safe: never leave content hidden
+      setTimeout(function () { if (!window.__lmibMounted) d.classList.remove('js-reveal'); }, 3000);
+    }
+  })();
+</script>
+</head>
+<body>
+<div id="app"><!--app-html--></div>
+<script type="module" src="/src/main.ts"></script>
+</body>
+</html>

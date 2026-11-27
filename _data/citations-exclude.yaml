@@ -1,0 +1,4 @@
+# Ids (doi:..., arxiv:...) to drop from the automatically scraped citations,
+# e.g. a wrong Google Scholar match or a duplicate preprint.
+# Ids pinned in _data/sources.yaml are never dropped by the automatic steps, but are removed if listed here.
+[]
