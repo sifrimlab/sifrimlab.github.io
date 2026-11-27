@@ -1,5 +1,7 @@
 from util import *
 
+SCHOLAR_TIMEOUT_SECONDS = 120
+
 
 def main(entry):
     """
@@ -32,11 +34,30 @@ def main(entry):
             )
         return works
 
-    try:
-        works = query(_id)
-    except Exception as e:
+    # scholarly has no request timeout and retries forever when Scholar blocks the client
+    # (typical on GitHub runners), so run it in a daemon thread and give up after a while.
+    import threading
+
+    result = {}
+
+    def run():
+        try:
+            result["works"] = query(_id)
+        except Exception as e:
+            result["error"] = e
+
+    worker = threading.Thread(target=run, daemon=True)
+    worker.start()
+    worker.join(timeout=SCHOLAR_TIMEOUT_SECONDS)
+
+    if worker.is_alive():
+        log(f"Google Scholar did not answer within {SCHOLAR_TIMEOUT_SECONDS}s, skipping", 3, "WARNING")
+        return []
+    if "error" in result:
+        e = result["error"]
         log(f"Google Scholar unavailable, skipping ({type(e).__name__}: {e})", 3, "WARNING")
         return []
+    works = result.get("works", [])
 
     sources = []
     seen = set()
