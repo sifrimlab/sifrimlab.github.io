@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.11.13.762587
+  title: FiberTron enables regulatory variant effect prediction and testing from multi-omic
+    long reads of a single sample
+  authors:
+  - Marios Eftychiou
+  - Laurens Lambrechts
+  - Joris Vande Velde
+  - Koen Theunis
+  - Christopher Davies
+  - Nischalan Pillay
+  - Kim De Keersmaecker
+  - Stein Aerts
+  - Alejandro Sifrim
+  - Jonas Demeulemeester
+  publisher: openRxiv
+  date: '2026-11-24'
+  link: https://doi.org/10.64898/2026.11.13.762587
 - id: arxiv:2610.22126
   title: 'Causal Integrated Gradients: Scalable Feature Attribution Along Causal Paths'
   authors:
@@ -240,31 +257,6 @@
   publisher: openRxiv
   date: '2025-12-12'
   link: https://doi.org/10.64898/2025.12.09.693234
-- id: doi:10.1002/alz70855_103205
-  title: "Networks of age-related pathologies and APOE \u03B54: their role in hippocampal\
-    \ degeneration"
-  authors:
-  - Klara Gawor
-  - Sam Verrept
-  - Geethika Arekatla
-  - David Wouters
-  - Alicja Ronisz
-  - Celeste Laureyssen
-  - Helena Ver Donck
-  - Bas Lahaije
-  - Simona Ospitalieri
-  - Mathieu Vandenbulcke
-  - Markus Otto
-  - Christine A.F. von Arnim
-  - Estifanos Ghebremedhin
-  - Rik Vandenberghe
-  - Alejandro Sifrim
-  - Kristel Sleegers
-  - Dietmar Rudolf Thal
-  - "Sandra O. Tom\xE9"
-  publisher: Alzheimer's & Dementia
-  date: '2025-12-01'
-  link: https://doi.org/10.1002/alz70855_103205
 - id: doi:10.1101/2025.10.21.683449
   title: Multi-omics integration and batch correction using a modality-agnostic deep
     learning framework
@@ -360,35 +352,6 @@
   publisher: Nature Cancer
   date: '2025-06-23'
   link: https://doi.org/10.1038/s43018-025-00994-3
-- id: doi:10.1101/2025.05.09.653178
-  title: Spatial epigenomic niches underlie glioblastoma cell state plasticity
-  authors:
-  - Sam Kint
-  - Subhi Talal Younes
-  - Shuozhen Bao
-  - Gretchen Long
-  - David Wouters
-  - Erin Stephenson
-  - Xing Lou
-  - Mei Zhong
-  - Di Zhang
-  - Graham Su
-  - Archibald Enninful
-  - Mingyu Yang
-  - Huey-Miin Chen
-  - Katrina Ellestad
-  - Colleen Anderson
-  - Jennifer Moliterno
-  - John Kelly
-  - Jennifer A Chan
-  - Alejandro Sifrim
-  - Jiangbing Zhou
-  - Ana Nikolic
-  - Rong Fan
-  - Marco Gallo
-  publisher: openRxiv
-  date: '2025-05-14'
-  link: https://doi.org/10.1101/2025.05.09.653178
 - id: doi:10.1093/nar/gkaf173
   title: Single-cell genome and transcriptome sequencing without upfront whole-genome
     amplification reveals cell state plasticity of melanoma subclones
