@@ -21,7 +21,7 @@ content/
 ├── home/index.md            # Landing page: title, tagline, affiliation, welcome text, featured publications
 ├── research/NN-<slug>.md    # One file per research theme (all shown on /research)
 ├── projects/<slug>.md       # Methods & resources (software, benchmarks, data browsers), linked from a theme
-├── team/<slug>.md           # Current members (team/alumni/ for former members)
+├── team/<slug>.md           # Current members (team/previous-members/ for former members)
 ├── news/YYYY-MM-DD-<slug>.md
 └── join/NN-<slug>.md        # How to apply, per career stage
 ```
@@ -69,7 +69,7 @@ links:                           # all optional; only those present are shown
 ---
 ```
 
-### Team — `content/team/*.md` and `content/team/alumni/*.md`
+### Team — `content/team/*.md` and `content/team/previous-members/*.md`
 
 ```yaml
 ---
@@ -89,7 +89,7 @@ Short biography in Markdown.
 ```
 
 - Put photos in `public/images/team/`. If a web-sized copy with the same name exists in `public/images/team/web/<name>.jpg` (max. 800 px), that copy is used. On macOS: `sips -s format jpeg -Z 800 in.jpg --out public/images/team/web/jane-doe.jpg`.
-- To move someone to the alumni, move their file to `content/team/alumni/`.
+- To move someone to the previous members, move their file to `content/team/previous-members/`.
 - Authors in publication lists are matched to team members by first and last name, so the site can link and highlight them.
 
 ### News — `content/news/YYYY-MM-DD-<slug>.md`
@@ -123,7 +123,7 @@ Where the citations come from:
 | Pinned works | `_data/sources.yaml` | `- id: doi:10.…` or `- id: arxiv:…`. Always kept; use it for anything referenced from `content/` (research themes, home page) and to override fields (e.g. a `title:`) |
 | Exclusions | `_data/citations-exclude.yaml` | Ids to drop, e.g. a wrong match or a duplicate preprint |
 
-Only **lab publications** are kept: the group leader plus at least one other person listed in `content/team/` (alumni included) must be on the paper. Pinned ids bypass this rule, with a warning.
+Only **lab publications** are kept: the group leader plus at least one other person listed in `content/team/` (previous members included) must be on the paper. Pinned ids bypass this rule, with a warning.
 Add `links: orcid:` to a member's front matter to make this robust: a member is recognised by ORCID iD
 (Crossref author ORCIDs, or the DOI being on the member's own ORCID record), and when both an author and a member
 have an ORCID iD, names are ignored, so look-alike names are told apart. Members without an ORCID iD are matched by

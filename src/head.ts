@@ -25,7 +25,7 @@ export function headFor(route: RouteLocationNormalizedLoaded): HeadData {
     case 'publications':
       return { title: tab('Publications'), description: 'Publications and preprints from the Laboratory of Multi-omic Integrative Bioinformatics at KU Leuven.' };
     case 'team':
-      return { title: tab('Team'), description: 'The postdocs, doctoral candidates, staff and alumni of the Laboratory of Multi-omic Integrative Bioinformatics at KU Leuven.' };
+      return { title: tab('Team'), description: 'The postdocs, doctoral candidates, staff and previous members of the Laboratory of Multi-omic Integrative Bioinformatics at KU Leuven.' };
     case 'team-member': {
       const m = siteContent.team.find((x) => x.slug === slug);
       return m

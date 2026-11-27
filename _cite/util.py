@@ -499,7 +499,7 @@ def orcid_id(text):
 
 def load_team(team_dir="content/team"):
     """
-    team members from the markdown files (alumni included) as
+    team members from the markdown files (previous members included) as
     {"name", "orcid" ("" if unknown), "leader"}
     """
 

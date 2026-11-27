@@ -56,7 +56,7 @@ const alumni = team.filter((m) => m.isAlumni);
       </section>
 
       <section v-if="alumni.length" class="group alumni">
-        <h2 class="label group__title">Alumni</h2>
+        <h2 class="label group__title">Previous members</h2>
         <p class="lead alumni__text">
           Remembered with enduring gratitude, these former lab members have pursued other academic endeavors, embraced new
           professional roles, or embarked on different paths. Their contributions resonate in the realm of science and

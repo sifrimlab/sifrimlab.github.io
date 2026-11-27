@@ -35,7 +35,7 @@ const links = computed(() => {
     <p class="crumb meta">
       <RouterLink to="/team">Team</RouterLink>
       <span aria-hidden="true"> / </span>
-      <span>{{ person.isAlumni ? 'Alumni' : person.roleLabel }}</span>
+      <span>{{ person.isAlumni ? 'Previous members' : person.roleLabel }}</span>
     </p>
 
     <div class="member__grid">

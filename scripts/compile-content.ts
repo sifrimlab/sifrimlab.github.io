@@ -119,7 +119,7 @@ function compileTeam(): TeamMember[] {
       slug,
       name: str(d.name, slug),
       role,
-      roleLabel: str(d.roleLabel, alumni ? 'Alumnus' : 'Researcher'),
+      roleLabel: str(d.roleLabel, alumni ? 'Previous member' : 'Researcher'),
       image: hasPhoto ? photo : '',
       hasPhoto,
       isAlumni: alumni,
@@ -130,7 +130,7 @@ function compileTeam(): TeamMember[] {
   };
   return [
     ...readDir('content/team').map((i) => parse(i, false)),
-    ...readDir('content/team/alumni').map((i) => parse(i, true)),
+    ...readDir('content/team/previous-members').map((i) => parse(i, true)),
   ].sort((a, b) => ROLE_ORDER[a.role] - ROLE_ORDER[b.role] || a.name.localeCompare(b.name));
 }
 
